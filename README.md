@@ -1,3 +1,5 @@
+![NewsGuard](https://github.com/user-attachments/assets/38984517-35b7-4dc1-bb06-6fc9be931582)
+
 # NewsGuard
 
 A comprehensive application for detecting fake news using machine learning.

@@ -1,0 +1,28 @@
+# Web frameworks
+streamlit==1.22.0
+flask==2.3.2
+flask-cors==3.0.10
+
+# Data processing
+pandas==2.0.1
+numpy==1.24.3
+
+# Machine learning
+scikit-learn==1.2.2
+transformers==4.29.2
+torch==2.0.1
+nltk==3.8.1
+
+# Web scraping
+beautifulsoup4==4.12.2
+requests==2.30.0
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+wordcloud==1.8.2.2
+
+# Utilities
+joblib==1.2.0
+tqdm==4.65.0

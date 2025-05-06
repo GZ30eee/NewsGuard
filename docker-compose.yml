@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  fake-news-detector:
+    build: .
+    ports:
+      - "5000:5000"  # Backend API
+      - "8501:8501"  # Streamlit frontend
+    volumes:
+      - ./models:/app/models
+      - ./analysis_history:/app/analysis_history
+    environment:
+      - DEBUG=true
+    restart: unless-stopped

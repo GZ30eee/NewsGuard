@@ -1,0 +1,1263 @@
+2025-05-03 15:02:28,421 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-03 15:02:32,190 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-03 15:02:42,858 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-03 15:02:43,083 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-03 15:02:47,216 - __main__ - ERROR - Error scraping URL: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /scrape (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A397566B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-03 15:03:09,581 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-03 15:03:13,291 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-03 15:03:18,266 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-03 15:03:18,483 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-03 15:03:22,577 - __main__ - ERROR - Error making prediction: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3975676B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-04 13:37:58,705 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:38:05,097 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:38:08,597 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:38:08,631 - __main__ - INFO - Selected sample: Likely Fake News
+2025-05-04 13:38:10,027 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:38:14,105 - __main__ - ERROR - Error making prediction: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022EFF57AF30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-04 13:40:32,198 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:40:34,535 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:40:34,560 - __main__ - INFO - Selected sample: Likely Fake News
+2025-05-04 13:40:36,265 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:40:40,374 - __main__ - ERROR - Error making prediction: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022EFF86C410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-04 13:40:42,969 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:40:44,772 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:40:45,883 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:40:46,891 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:40:47,900 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:40:53,348 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:40:54,323 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:46:33,824 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:46:38,938 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:46:40,170 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:46:40,183 - __main__ - INFO - Selected sample: Likely Fake News
+2025-05-04 13:46:41,491 - __main__ - INFO - Starting Fake News Detector frontend
+2025-05-04 13:46:45,591 - __main__ - ERROR - Error making prediction: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /predict (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000197A77449B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-04 13:51:22,818 - __main__ - INFO - Starting backend server...
+2025-05-04 13:51:22,818 - __main__ - INFO - Starting frontend server...
+2025-05-04 13:51:27,819 - __main__ - INFO - Opening browser at http://localhost:8501
+2025-05-04 13:51:30,148 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 13:51:38,803 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 13:51:47,000 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-05-04 13:51:47,000 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 13:51:47,030 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 13:51:53,895 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 13:52:03,806 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 13:52:08,402 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 13:52:08,437 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 13:52:08,957 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:52:08] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:53:00,252 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:53:00] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:53:04,709 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:53:04] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:53:08,882 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:53:08] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:53:12,055 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py', reloading
+2025-05-04 13:53:13,451 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 13:53:20,419 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 13:53:28,346 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 13:53:33,454 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 13:53:33,480 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 13:53:42,321 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:53:42,322 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:53:44,467 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 13:53:51,034 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 13:53:59,479 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 13:54:04,539 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 13:54:04,564 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 13:54:05,033 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:05] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:05,033 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:05] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:05,130 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:05] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:05,371 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:05] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:07,451 - __main__ - WARNING - Invalid input: Invalid model selection
+2025-05-04 13:54:07,452 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:07] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-04 13:54:14,828 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:14] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:18,501 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:18] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:20,565 - __main__ - INFO - Prediction request: model=bert, text_length=341
+2025-05-04 13:54:20,575 - __main__ - ERROR - Error extracting features: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 13:54:20,586 - __main__ - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 13:54:21,361 - __main__ - ERROR - Error extracting important words: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 13:54:21,366 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\844e9e69-653e-4582-a747-f9e55a221360.json
+2025-05-04 13:54:21,367 - __main__ - INFO - Prediction result: FAKE with confidence 0.51
+2025-05-04 13:54:21,368 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:21] "POST /predict HTTP/1.1" 200 -
+2025-05-04 13:54:34,917 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:34] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:39,962 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:39] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:44,610 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:44] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:51,504 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:51] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:54:55,843 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:54:55] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:55:15,050 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:55:15,081 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:55:15,082 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:55:17,207 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 13:55:24,560 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 13:55:32,467 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 13:55:37,272 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 13:55:37,296 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 13:55:37,870 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:55:37] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:55:37,872 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:55:37] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:55:37,878 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:55:37] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:55:38,987 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:55:38] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:55:39,209 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:55:39] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:55:41,251 - __main__ - INFO - Prediction request: model=bert, text_length=281
+2025-05-04 13:55:41,261 - __main__ - ERROR - Error extracting features: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 13:55:41,276 - __main__ - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 13:55:41,474 - __main__ - ERROR - Error extracting important words: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 13:55:41,476 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\ec078b86-414e-4b00-96f7-74311a445e3a.json
+2025-05-04 13:55:41,479 - __main__ - INFO - Prediction result: REAL with confidence 0.54
+2025-05-04 13:55:41,480 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:55:41] "POST /predict HTTP/1.1" 200 -
+2025-05-04 13:55:48,983 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:55:48] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:55:53,902 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:55:53] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:55:55,954 - __main__ - WARNING - Invalid input: Invalid model selection
+2025-05-04 13:55:55,956 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:55:55] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-04 13:58:35,358 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:58:35,359 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:58:35,393 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:58:37,624 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 13:58:45,148 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 13:58:52,850 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 13:58:57,588 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 13:58:57,607 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 13:59:18,152 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:59:18,183 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:59:18,185 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 13:59:20,616 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 13:59:27,463 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 13:59:36,192 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 13:59:40,733 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 13:59:40,752 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 13:59:41,260 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:59:41] "GET /health HTTP/1.1" 200 -
+2025-05-04 13:59:41,264 - __main__ - WARNING - Invalid input: Invalid model selection
+2025-05-04 13:59:41,265 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 13:59:41] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-05-04 13:59:43,151 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\Lib\\site-packages\\requests\\__init__.py', reloading
+2025-05-04 13:59:45,453 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 13:59:52,438 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:00:01,342 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:00:06,812 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:00:06,837 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:00:12,818 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:00:12,824 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:00:12,825 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:00:14,813 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:00:21,856 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:00:30,768 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:00:35,398 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:00:35,423 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:00:43,562 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:00:43,564 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:00:46,185 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:00:53,348 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:01:01,780 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:01:06,421 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:01:06,438 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:01:17,100 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:01:17,102 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:01:17,103 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:01:18,761 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:01:25,617 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:01:33,531 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:01:38,279 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:01:38,292 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:02:21,480 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:02:21,510 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:02:21,512 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:02:23,769 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:02:30,582 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:02:39,136 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:02:43,946 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:02:43,969 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:02:58,757 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:02:58,788 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:03:00,670 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:03:02,365 - __main__ - ERROR - Backend server failed: Command '['E:\\Project\\Fake news detection\\fake-news-detector\\venv\\Scripts\\python.exe', '-m', 'app.backend']' returned non-zero exit status 1.
+2025-05-04 14:04:13,092 - __main__ - INFO - Frontend server stopped by user
+2025-05-04 14:04:16,507 - __main__ - INFO - Starting backend server...
+2025-05-04 14:04:16,508 - __main__ - INFO - Starting frontend server...
+2025-05-04 14:04:21,509 - __main__ - INFO - Opening browser at http://localhost:8501
+2025-05-04 14:04:23,700 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:04:32,150 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:04:38,513 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-05-04 14:04:38,513 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 14:04:38,547 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:04:45,300 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:04:53,995 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:04:58,739 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:04:58,760 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:04:59,232 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:04:59] "[33mGET / HTTP/1.1[0m" 404 -
+2025-05-04 14:04:59,237 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:04:59] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:05:05,194 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:05:05] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:05:07,357 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:05:07] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:05:12,211 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:05:12] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:05:20,678 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:05:20] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:05:20,877 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:05:20] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:05:22,938 - __main__ - INFO - Received prediction request: {'text': 'A new study suggests that coffee might have additional health benefits. Some experts believe it could reduce the risk of certain conditions, while others remain skeptical. The research is still in early stages and more investigation is needed to confirm these preliminary findings.\n\n\n', 'model': 'bert'}
+2025-05-04 14:05:22,939 - __main__ - INFO - Prediction request: model=bert, text_length=281
+2025-05-04 14:05:22,949 - __main__ - ERROR - Error extracting features: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:05:22,960 - __main__ - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:05:23,115 - __main__ - ERROR - Error extracting important words: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:05:23,130 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\9d765ab1-49f6-43f9-8317-4b30d1387add.json
+2025-05-04 14:05:23,131 - __main__ - INFO - Prediction result: REAL with confidence 0.54
+2025-05-04 14:05:23,132 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:05:23] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:05:28,852 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:05:28] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:05:33,809 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:05:33] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:05:35,894 - __main__ - INFO - Received prediction request: {'text': 'A new study suggests that coffee might have additional health benefits. Some experts believe it could reduce the risk of certain conditions, while others remain skeptical. The research is still in early stages and more investigation is needed to confirm these preliminary findings.\n\n\n', 'model': 'tfidf'}
+2025-05-04 14:05:35,894 - __main__ - INFO - Prediction request: model=tfidf, text_length=281
+2025-05-04 14:05:35,900 - __main__ - ERROR - Error extracting features: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:05:35,913 - __main__ - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:05:35,966 - __main__ - ERROR - Error extracting important words: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:05:35,970 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\8159a515-51e2-4e13-b6fd-250b57194b1e.json
+2025-05-04 14:05:35,971 - __main__ - INFO - Prediction result: REAL with confidence 0.56
+2025-05-04 14:05:35,972 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:05:35] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:06:51,633 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:06:51] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:06:51,888 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:06:51] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:06:53,944 - __main__ - INFO - Received prediction request: {'text': 'BREAKING: SCIENTISTS UNCOVER SHOCKING TRUTH ABOUT ALIEN SIGNALS IN DEEP SPACE! In a groundbreaking study published in the prestigious Journal of Astrophysical Research, a team of expert astronomers from Harvard University has revealed DEVASTATING evidence that mysterious radio bursts detected in the cosmos might not be natural phenomena but could be deliberate signals from an advanced extraterrestrial civilization! The research, funded by NASA and conducted over five years, analyzed over 1,000 fast radio bursts (FRBs) using state-of-the-art telescopes, and the results are TERRIFYING: 85% of these signals show patterns that defy all known astrophysical explanations! "This could be the game changer we\'ve been waiting for," exclaimed lead scientist Dr. Jane Rosenberg. "You won’t believe what we found in the data—it’s like nothing we’ve ever seen!" The study also uncovered suspicious numbers, with some signals repeating exactly every 16.35 days, a precision that suggests artificial design. BUT WAIT! Skeptics argue that these findings are premature, pointing to alternative theories like neutron star collisions. Yet, the team’s report insists that the EVIDENCE is overwhelming, with MILLIONS of data points supporting their claims. Could this be the moment humanity confirms we’re not alone? Stay tuned for more UPDATES as this SCANDALOUS discovery shakes the scientific community to its core!!!\n\n', 'model': 'tfidf'}
+2025-05-04 14:06:53,945 - __main__ - INFO - Prediction request: model=tfidf, text_length=1407
+2025-05-04 14:06:53,951 - __main__ - ERROR - Error extracting features: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:06:53,959 - __main__ - ERROR - Error preprocessing text: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:06:53,969 - __main__ - ERROR - Error extracting important words: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:06:53,975 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\11504ec4-5178-402d-a0a0-6cdf1ffbc72a.json
+2025-05-04 14:06:53,976 - __main__ - INFO - Prediction result: FAKE with confidence 0.51
+2025-05-04 14:06:53,978 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:06:53] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:09:17,613 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:09:17,644 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\backend.py', reloading
+2025-05-04 14:09:19,643 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:09:26,823 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:09:34,638 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:09:39,347 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:09:39,368 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:14:11,298 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py', reloading
+2025-05-04 14:14:13,631 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:14:20,309 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:14:29,169 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:14:34,309 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:14:34,331 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:15:07,545 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\models.py', reloading
+2025-05-04 14:15:09,318 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:15:16,748 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:15:25,967 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:15:29,796 - __main__ - INFO - Frontend server stopped by user
+2025-05-04 14:16:24,473 - __main__ - INFO - Starting backend server...
+2025-05-04 14:16:24,473 - __main__ - INFO - Starting frontend server...
+2025-05-04 14:16:29,475 - __main__ - INFO - Opening browser at http://localhost:8501
+2025-05-04 14:16:31,422 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:16:40,304 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:16:46,680 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-05-04 14:16:46,680 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 14:16:46,708 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:16:53,461 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:17:00,906 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:17:05,313 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:17:05,330 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:17:05,822 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:05] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:17:05,827 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:05] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:17:05,829 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:05] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:17:11,003 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:11] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:17:16,919 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:16] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:17:17,135 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:17] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:17:19,209 - __main__ - INFO - Received prediction request: {'text': "Researchers at Stanford University have developed a new algorithm that improves early detection of Alzheimer's disease. The study, published in the Journal of Medical AI, shows a 40% improvement in early diagnosis compared to current methods. The team analyzed brain scans from over 5,000 patients using machine learning techniques.", 'model': 'bert'}
+2025-05-04 14:17:19,210 - __main__ - INFO - Prediction request: model=bert, text_length=332
+2025-05-04 14:17:19,218 - __main__ - ERROR - Error extracting features: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:17:19,219 - __main__ - INFO - Original text: Researchers at Stanford University have developed a new algorithm that improves early detection of Alzheimer's disease. The study, published in the Journal of Medical AI, shows a 40% improvement in ea...
+2025-05-04 14:17:19,229 - __main__ - ERROR - Preprocessing error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:17:19,435 - __main__ - ERROR - Error extracting important words: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:17:19,440 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\d473feaa-f526-46ec-94f0-6e9a06d681d8.json
+2025-05-04 14:17:19,441 - __main__ - INFO - Prediction result: REAL with confidence 0.54
+2025-05-04 14:17:19,443 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:19] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:17:42,609 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:42] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:17:42,769 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:42] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:17:44,832 - __main__ - INFO - Received prediction request: {'text': 'BREAKING: SCIENTISTS UNCOVER SHOCKING TRUTH ABOUT ALIEN SIGNALS IN DEEP SPACE! In a groundbreaking study published in the prestigious Journal of Astrophysical Research, a team of expert astronomers from Harvard University has revealed DEVASTATING evidence that mysterious radio bursts detected in the cosmos might not be natural phenomena but could be deliberate signals from an advanced extraterrestrial civilization! The research, funded by NASA and conducted over five years, analyzed over 1,000 fast radio bursts (FRBs) using state-of-the-art telescopes, and the results are TERRIFYING: 85% of these signals show patterns that defy all known astrophysical explanations! "This could be the game changer we\'ve been waiting for," exclaimed lead scientist Dr. Jane Rosenberg. "You won’t believe what we found in the data—it’s like nothing we’ve ever seen!" The study also uncovered suspicious numbers, with some signals repeating exactly every 16.35 days, a precision that suggests artificial design. BUT WAIT! Skeptics argue that these findings are premature, pointing to alternative theories like neutron star collisions. Yet, the team’s report insists that the EVIDENCE is overwhelming, with MILLIONS of data points supporting their claims. Could this be the moment humanity confirms we’re not alone? Stay tuned for more UPDATES as this SCANDALOUS discovery shakes the scientific community to its core!!!\n', 'model': 'bert'}
+2025-05-04 14:17:44,832 - __main__ - INFO - Prediction request: model=bert, text_length=1407
+2025-05-04 14:17:44,836 - __main__ - ERROR - Error extracting features: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:17:44,836 - __main__ - INFO - Original text: BREAKING: SCIENTISTS UNCOVER SHOCKING TRUTH ABOUT ALIEN SIGNALS IN DEEP SPACE! In a groundbreaking study published in the prestigious Journal of Astrophysical Research, a team of expert astronomers fr...
+2025-05-04 14:17:44,854 - __main__ - ERROR - Preprocessing error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:17:45,120 - __main__ - ERROR - Error extracting important words: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:17:45,123 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\e7e1e946-555d-43b1-be57-50905af05ab9.json
+2025-05-04 14:17:45,125 - __main__ - INFO - Prediction result: FAKE with confidence 0.52
+2025-05-04 14:17:45,125 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:45] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:17:55,630 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:55] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:17:59,590 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:17:59] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:18:01,677 - __main__ - INFO - Received prediction request: {'text': 'BREAKING: SCIENTISTS UNCOVER SHOCKING TRUTH ABOUT ALIEN SIGNALS IN DEEP SPACE! In a groundbreaking study published in the prestigious Journal of Astrophysical Research, a team of expert astronomers from Harvard University has revealed DEVASTATING evidence that mysterious radio bursts detected in the cosmos might not be natural phenomena but could be deliberate signals from an advanced extraterrestrial civilization! The research, funded by NASA and conducted over five years, analyzed over 1,000 fast radio bursts (FRBs) using state-of-the-art telescopes, and the results are TERRIFYING: 85% of these signals show patterns that defy all known astrophysical explanations! "This could be the game changer we\'ve been waiting for," exclaimed lead scientist Dr. Jane Rosenberg. "You won’t believe what we found in the data—it’s like nothing we’ve ever seen!" The study also uncovered suspicious numbers, with some signals repeating exactly every 16.35 days, a precision that suggests artificial design. BUT WAIT! Skeptics argue that these findings are premature, pointing to alternative theories like neutron star collisions. Yet, the team’s report insists that the EVIDENCE is overwhelming, with MILLIONS of data points supporting their claims. Could this be the moment humanity confirms we’re not alone? Stay tuned for more UPDATES as this SCANDALOUS discovery shakes the scientific community to its core!!!\n', 'model': 'tfidf'}
+2025-05-04 14:18:01,678 - __main__ - INFO - Prediction request: model=tfidf, text_length=1407
+2025-05-04 14:18:01,686 - __main__ - ERROR - Error extracting features: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:18:01,686 - __main__ - INFO - Original text: BREAKING: SCIENTISTS UNCOVER SHOCKING TRUTH ABOUT ALIEN SIGNALS IN DEEP SPACE! In a groundbreaking study published in the prestigious Journal of Astrophysical Research, a team of expert astronomers fr...
+2025-05-04 14:18:01,694 - __main__ - ERROR - Preprocessing error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:18:01,705 - __main__ - ERROR - Error extracting important words: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:18:01,709 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\d74c599d-82e1-4a74-b30e-1c322530fdbf.json
+2025-05-04 14:18:01,710 - __main__ - INFO - Prediction result: FAKE with confidence 0.51
+2025-05-04 14:18:01,711 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:18:01] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:19:17,792 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:19:17] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:19:33,235 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:19:33] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:19:33,454 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:19:33] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:19:35,497 - __main__ - INFO - Scrape request: url=https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-fair-and-remunerative-price-frp-msp-sugar-upsc-9979316/
+2025-05-04 14:19:35,909 - __main__ - INFO - Successfully extracted 1226 words from https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-fair-and-remunerative-price-frp-msp-sugar-upsc-9979316/
+2025-05-04 14:19:35,910 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:19:35] "POST /scrape HTTP/1.1" 200 -
+2025-05-04 14:19:37,965 - __main__ - INFO - Received prediction request: {'text': 'Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Heres your knowledge nugget for today on fair and remunerative price (FRP). Amid a drop in sugar production during the current season (October 2024 to September 2025), the Centre on Wednesday (April 30) increased the fair and remunerative price (FRP) of sugarcane by Rs 15 (or 4.41) to Rs 355 per quintal for the sugar season 2025-26. The FRP hike will encourage sugarcane farmers to plant more when sugar production is seeing a dip. The new FRP will come into effect October 1, 2025. 1. FRP is the minimum price mandated by the Government that sugar mills are obligated to pay farmers for their produce. 2. The FRP for sugarcane is decided every year by the Centres Cabinet Committee on Economic Affairs (CCEA) headed by the Prime Minister, on the recommendation of the Commission for Agricultural Costs and Prices (CACP), a body under the Ministry of Agriculture and Farmers Welfare. 3. The FRP for sugarcane is decided using the same mechanism as the one that is used to calculate the Minimum Support Price (MSP) of 23 other crops. 4. However, while the MSP is not legally guaranteed, sugar mills are legally obligated to pay the FRP. The payment of FRP across the country is governed by The Sugarcane Control order, 1966 which mandates payment within 14 days of the date of delivery of the cane, failing which the cane commissioner may act against the miller. Failure to clear farmers due can even lead to the attachment of mill properties. 5. The FRP is based on the recovery of sugar from the cane. Sugar recovery is the ratio between sugar produced versus cane crushed, expressed as a percentage. The higher the recovery, the higher is the FRP, and higher is the sugar produced. 1. Minimum support price (MSP) is the price at which the government is supposed to procurebuy that crop from farmers if the market price falls below it. MSPs provide a floor for market prices and ensure that farmers receive a certain minimum remuneration so that their costs of cultivation (and some profit) can be recovered. 2. MSP was introduced in the mid-sixties when India was in food deficit. The government was keen to boost domestic production through green revolution technologies but realised farmers wouldnt plant input-intensive high yielding wheat or paddy varieties unless guaranteed a minimum price. MSP was first fixed for wheat in 1966-67 at Rs. 54 per quintal. 3. The MSPs are announced by the Union government on the recommendations of the Commission for Agricultural Costs and Prices. 4. The Commission for Agricultural Costs  Prices recommends MSPs for 22 mandated crops and fair and remunerative price (FRP) for sugarcane. The Cabinet Committee on Economic Affairs (CCEA) of the Union government takes a final decision on the level of MSPs. 5. While recommending MSPs, the CACP looks at the following factors:  the demand and supply of a commodity;  its cost of production;  the market price trends (both domestic and international);  inter-crop price parity;  the terms of trade between agriculture and non-agriculture (that is, the ratio of prices of farm inputs and farm outputs);  a minimum of 50 per cent as the margin over the cost of production; and  the likely implications of an MSP on consumers of that product. A2: Covers all paid-out costs directly incurred by the farmer in cash and kind on seeds, fertilisers, pesticides, hired labour, leased-in land, fuel, irrigation, etc. A2FL: Includes A2 plus an imputed value of unpaid family labour. C2: Includes A2FL along with revenues forgone on owned land (rent) and fixed capital assets (interest). 6. Crops covered under MSP  7 types of cereals (paddy, wheat, maize, bajra, jowar, ragi and barley),  5 types of pulses (chana, arhartur, urad, moong and masur),  7 oilseeds (rapeseed-mustard, groundnut, soyabean, sunflower, sesamum, safflower, nigerseed),  4 commercial crops (cotton, sugarcane, copra, raw jute) (After knowing about the FRP and MSP, it becomes important to learn about the PMFBY, as government schemes, especially those for farmers, remain relevant for both Prelims and Mains. Additionally, in 2016, a direct question was asked on the PMFBY.) 1. The Union Cabinet on January 1, 2025, approved the continuation of the Pradhan Mantri Fasal Bima Yojana until 2025-26. 2. PMFBY was launched in 2016 to replace the existing National Agricultural Insurance Scheme (NAIS) and the Modified National Agricultural Insurance Scheme (MNAIS). It works on the One Nation, One Crop, One Premium. 3. Under the scheme, all farmers including sharecroppers and tenant farmers growing notified crops in the notified areas are eligible for coverage. 4. Initially, the scheme was compulsory for loanee farmers; in February 2020, the Centre revised it to make it optional for all farmers. 5. The schemes objective is to stablise farmers income to ensure their continuation in farming, encourage them to adopt innovative agricultural practices, and ensure the flow of credit to the farmers. For this, the scheme provides insurance coverage to the farmers in the event of failure of any of the notified crops as a result of natural calamities, pests  diseases. 6. Under the PMFBY, a farmer is required to pay as a premium 2 of the sum insured or actuarial rate, whichever is less, for all kharif foodgrain and oilseed crops; 1.5 of sum insured or actuarial rate, whichever is less, for all rabi foodgrain and oilseed crops; and 5 for horticultural crops. With reference to the Fair and Remunerative Price (FRP), consider the following statements: 1. The payment of FRP across the country is governed by the Sugarcane Control order, 1966. 2. It mandates payment within 14 days. 3. If the sugar recovery is higher then the FRP will also be higher. 4. FRP is the price declared by the various state governments. How many of the statements given above are correct? (a) Only one (b) Only two (c) Only three (d) All four (Sources: Sugar production set to decline, Govt hikes fair price of sugarcane by 4.41, Explained: HC, govt orders on Maharashtra sugarcane payments, why they matter for the state, Simply Put  Fasal Bima: whos in, out and why, UPSC Essentials: One word a day  Minimum Support Price) Subscribe to our UPSC newsletter. Stay updated with the latest UPSC articles by joining our Telegram channel  Indian Express UPSC Hub, and follow us on Instagram and X.  Click Here to read the UPSC Essentials magazine for April 2025. Share your views and suggestions in the comment box or at Manas Srivastava  Roshni Yadav is a Deputy Copy Editor with The Indian Express. She is an alumna of the University of Delhi and Jawaharlal Nehru University, where she pursued her graduation and post-graduation in Political Science. She has over five years of work experience in ed-tech and media. At The Indian Express, she writes for the UPSC section. Her interests lie in national and international affairs, governance, economy, and social issues. You can contact her via email: roshni.yadavindianexpress.com ... Read More Kim Soo Hyuns upcoming K-drama Knock Off, alongside actor Jo Bo Ah, the production of which was earlier paused according to a representative of Disney, stirred debate suddenly this week after a promotional picture of the actor was released online. The poster swept all top trends in no time, with the internet divided over their views. Read UPSC Magazine', 'model': 'tfidf'}
+2025-05-04 14:19:37,967 - __main__ - INFO - Prediction request: model=tfidf, text_length=7442
+2025-05-04 14:19:37,975 - __main__ - ERROR - Error extracting features: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:19:37,975 - __main__ - INFO - Original text: Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Heres your knowledge nugget for today on fair and remunerative price (FRP). Amid a dro...
+2025-05-04 14:19:37,985 - __main__ - ERROR - Preprocessing error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:19:38,011 - __main__ - ERROR - Error extracting important words: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Ghanshyamsinh Zala/nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\share\\nltk_data'
+    - 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-04 14:19:38,016 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\abc9fd32-756f-442f-a6c8-51f436c887ae.json
+2025-05-04 14:19:38,018 - __main__ - INFO - Prediction result: REAL with confidence 0.50
+2025-05-04 14:19:38,020 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:19:38] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:22:02,505 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\utils\\text_processor.py', reloading
+2025-05-04 14:22:02,506 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\utils\\text_processor.py', reloading
+2025-05-04 14:22:05,532 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:22:14,363 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:22:23,882 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:22:29,218 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:22:29,235 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:22:34,933 - __main__ - INFO - Frontend server stopped by user
+2025-05-04 14:22:59,639 - __main__ - INFO - Starting backend server...
+2025-05-04 14:22:59,640 - __main__ - INFO - Starting frontend server...
+2025-05-04 14:23:04,641 - __main__ - INFO - Opening browser at http://localhost:8501
+2025-05-04 14:23:06,792 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:23:15,409 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:23:21,536 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-05-04 14:23:21,536 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 14:23:21,571 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:23:28,266 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:23:36,253 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:23:41,066 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:23:41,085 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:23:41,565 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:23:41] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:23:41,569 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:23:41] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:23:41,572 - __main__ - INFO - Received prediction request: {'text': "Researchers at Stanford University have developed a new algorithm that improves early detection of Alzheimer's disease. The study, published in the Journal of Medical AI, shows a 40% improvement in early diagnosis compared to current methods. The team analyzed brain scans from over 5,000 patients using machine learning techniques.", 'model': 'bert'}
+2025-05-04 14:23:41,573 - __main__ - INFO - Prediction request: model=bert, text_length=332
+2025-05-04 14:23:41,719 - __main__ - INFO - Original text: Researchers at Stanford University have developed a new algorithm that improves early detection of Alzheimer's disease. The study, published in the Journal of Medical AI, shows a 40% improvement in ea...
+2025-05-04 14:23:41,721 - __main__ - INFO - Processed text: researchers stanford university developed new algorithm improves early detection alzheimer 's disease . study , published journal medical ai , shows 40 % improvement early diagnosis compared current m...
+2025-05-04 14:23:41,893 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\ac85de51-f337-4d34-bac8-fa67ede394d5.json
+2025-05-04 14:23:41,893 - __main__ - INFO - Prediction result: REAL with confidence 0.53
+2025-05-04 14:23:41,895 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:23:41] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:25:09,301 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:25:09] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:25:09,533 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:25:09] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:25:11,605 - __main__ - INFO - Received prediction request: {'text': 'Sundarpur, India — In a surprising event that has captured international attention, a strange metallic object crash-landed in a remote village in northern India late Monday night. Villagers in Sundarpur, a quiet agricultural settlement nestled at the base of the Sivalik Hills, reported hearing a loud whirring noise followed by a blinding flash of blue light before the object hit the ground in a dry riverbed just outside the village boundary.\n\nThe object, roughly the size of a small car, is made of an unidentified alloy that scientists say doesn\'t match any known material on Earth. “The surface is incredibly smooth, almost frictionless, and appears to be absorbing radiation in ways we’ve never seen,” said Dr. Kavita Rao, a materials scientist from the Indian Institute of Science, who is leading a research team on-site.\n\nLocal authorities quickly cordoned off the area, and within hours, teams from the Indian Space Research Organisation (ISRO), the Defence Research and Development Organisation (DRDO), and even a joint observer team from the United Nations arrived to secure the location. Speculation about the object\'s origin has varied wildly—from an experimental space probe to alien technology.\n\nUnexplained Anomalies\n\nAccording to multiple eyewitnesses, the air temperature dropped significantly in the vicinity of the object, and several mobile phones in the area stopped functioning moments after the crash. Farmers working nearby claimed to see "dancing lights" around the object before it went completely dark.\n\n“What we’re seeing could be consistent with ionizing radiation or magnetic field anomalies,” said Dr. Malik Oberoi, a physicist from the University of Cambridge who was flown in to consult. “However, without proper analysis, it\'s too early to speculate.”\n\nNotably, preliminary scans conducted by ground-penetrating radar revealed that the object may extend several meters underground, suggesting that what is visible on the surface could be just a fraction of a much larger structure.\n\nGovernment Response\n\nThe Indian government has issued a temporary no-fly zone over the region and has dispatched the Indian Army to enforce a security perimeter around Sundarpur. In a brief statement, the Ministry of Home Affairs said, “We are treating this as an object of scientific interest and potential strategic significance. Citizens are advised not to approach the site.”\n\nDespite official reassurances, conspiracy theories and public concern are already spreading. Social media has been flooded with videos, some showing alleged aerial footage of the object glowing faintly in the dark. A few unverified clips suggest that small drones deployed near the object mysteriously malfunctioned and crashed.', 'model': 'bert'}
+2025-05-04 14:25:11,605 - __main__ - INFO - Prediction request: model=bert, text_length=2728
+2025-05-04 14:25:11,609 - __main__ - INFO - Original text: Sundarpur, India — In a surprising event that has captured international attention, a strange metallic object crash-landed in a remote village in northern India late Monday night. Villagers in Sundarp...
+2025-05-04 14:25:11,613 - __main__ - INFO - Processed text: sundarpur , india — surprising event captured international attention , strange metallic object crash-landed remote village northern india late monday night . villagers sundarpur , quiet agricultural ...
+2025-05-04 14:25:11,952 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\a724fdb4-59ae-4038-b909-52f1c4f0cec4.json
+2025-05-04 14:25:11,952 - __main__ - INFO - Prediction result: REAL with confidence 0.51
+2025-05-04 14:25:11,954 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:25:11] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:25:38,310 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:25:38] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:25:38,557 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:25:38] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:25:40,641 - __main__ - INFO - Received prediction request: {'text': 'Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition\n\nByline: By Liana Foster | Global Times Daily | May 4, 2025\n\nSundarpur, India — In a surprising event that has captured international attention, a strange metallic object crash-landed in a remote village in northern India late Monday night. Villagers in Sundarpur, a quiet agricultural settlement nestled at the base of the Sivalik Hills, reported hearing a loud whirring noise followed by a blinding flash of blue light before the object hit the ground in a dry riverbed just outside the village boundary.\n\nThe object, roughly the size of a small car, is made of an unidentified alloy that scientists say doesn\'t match any known material on Earth. “The surface is incredibly smooth, almost frictionless, and appears to be absorbing radiation in ways we’ve never seen,” said Dr. Kavita Rao, a materials scientist from the Indian Institute of Science, who is leading a research team on-site.\n\nLocal authorities quickly cordoned off the area, and within hours, teams from the Indian Space Research Organisation (ISRO), the Defence Research and Development Organisation (DRDO), and even a joint observer team from the United Nations arrived to secure the location. Speculation about the object\'s origin has varied wildly—from an experimental space probe to alien technology.\n\nUnexplained Anomalies\n\nAccording to multiple eyewitnesses, the air temperature dropped significantly in the vicinity of the object, and several mobile phones in the area stopped functioning moments after the crash. Farmers working nearby claimed to see "dancing lights" around the object before it went completely dark.\n\n“What we’re seeing could be consistent with ionizing radiation or magnetic field anomalies,” said Dr. Malik Oberoi, a physicist from the University of Cambridge who was flown in to consult. “However, without proper analysis, it\'s too early to speculate.”\n\nNotably, preliminary scans conducted by ground-penetrating radar revealed that the object may extend several meters underground, suggesting that what is visible on the surface could be just a fraction of a much larger structure.\n\nGovernment Response\n\nThe Indian government has issued a temporary no-fly zone over the region and has dispatched the Indian Army to enforce a security perimeter around Sundarpur. In a brief statement, the Ministry of Home Affairs said, “We are treating this as an object of scientific interest and potential strategic significance. Citizens are advised not to approach the site.”\n\nDespite official reassurances, conspiracy theories and public concern are already spreading. Social media has been flooded with videos, some showing alleged aerial footage of the object glowing faintly in the dark. A few unverified clips suggest that small drones deployed near the object mysteriously malfunctioned and crashed.\n\nA Global Mystery\n\nWhat adds more intrigue to the incident is that similar reports—albeit less dramatic—have emerged from parts of Chile, Siberia, and rural Australia in recent months. In each case, locals reported unusual sky phenomena followed by the discovery of unknown metallic fragments.\n\nThe United Nations Office for Outer Space Affairs (UNOOSA) has expressed concern over the frequency of such events and is calling for international cooperation to investigate what may be a global phenomenon.\n\n“If these events are connected, then we may be witnessing something unprecedented in our understanding of extraterrestrial materials or technologies,” said Ana Gómez, a senior analyst at UNOOSA.\n\nLooking Ahead\n\nAs the world watches with anticipation and skepticism, the Sundarpur object has already become the subject of countless theories and debates across scientific communities. Some see it as the beginning of a new era of discovery, while others warn against jumping to conclusions.\n\nMeanwhile, life in Sundarpur has been turned upside down. Villagers who once worried about the monsoon season and crop yields now find their homes surrounded by scientists, soldiers, and journalists from around the world.\n\n“We’ve never seen anything like this,” said 72-year-old Ram Pratap, a farmer who claims to have seen the object descend. “Maybe the gods are visiting. Or maybe it’s something else entirely.”\n\nOne thing is certain: whatever lies beneath the soil of Sundarpur, it has already changed the world above it.\n\n', 'model': 'bert'}
+2025-05-04 14:25:40,644 - __main__ - INFO - Prediction request: model=bert, text_length=4401
+2025-05-04 14:25:40,648 - __main__ - INFO - Original text: Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition
+
+Byline: By Liana Foster | Global Times Daily | May 4, 2025
+
+Sundarpur, India — In a surprising event that ...
+2025-05-04 14:25:40,659 - __main__ - INFO - Processed text: title : mysterious object lands remote village , scientists baffled material composition byline : liana foster | global times daily | may 4 , 2025 sundarpur , india — surprising event captured interna...
+2025-05-04 14:25:41,081 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\49035baf-e6a3-4a48-b989-ab7f9db386f1.json
+2025-05-04 14:25:41,082 - __main__ - INFO - Prediction result: FAKE with confidence 0.50
+2025-05-04 14:25:41,084 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:25:41] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:26:12,944 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:26:12] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:26:17,190 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:26:17] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:26:34,003 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:26:34] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:26:47,373 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:26:47,390 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:26:47,391 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:26:49,456 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:26:56,434 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:27:03,691 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:27:08,156 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:27:08,173 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:27:29,335 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:27:29,337 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:27:29,338 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:27:31,707 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:27:38,316 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:27:46,509 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:27:51,140 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:27:51,169 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:27:51,792 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:27:51] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:27:51,796 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:27:51] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:27:51,798 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:27:51] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:27:51,801 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:27:51] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:27:52,090 - __main__ - INFO - Received prediction request: {'text': 'Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition\n\nByline: By Liana Foster | Global Times Daily | May 4, 2025\n\nSundarpur, India — In a surprising event that has captured international attention, a strange metallic object crash-landed in a remote village in northern India late Monday night. Villagers in Sundarpur, a quiet agricultural settlement nestled at the base of the Sivalik Hills, reported hearing a loud whirring noise followed by a blinding flash of blue light before the object hit the ground in a dry riverbed just outside the village boundary.\n\nThe object, roughly the size of a small car, is made of an unidentified alloy that scientists say doesn\'t match any known material on Earth. “The surface is incredibly smooth, almost frictionless, and appears to be absorbing radiation in ways we’ve never seen,” said Dr. Kavita Rao, a materials scientist from the Indian Institute of Science, who is leading a research team on-site.\n\nLocal authorities quickly cordoned off the area, and within hours, teams from the Indian Space Research Organisation (ISRO), the Defence Research and Development Organisation (DRDO), and even a joint observer team from the United Nations arrived to secure the location. Speculation about the object\'s origin has varied wildly—from an experimental space probe to alien technology.\n\nUnexplained Anomalies\n\nAccording to multiple eyewitnesses, the air temperature dropped significantly in the vicinity of the object, and several mobile phones in the area stopped functioning moments after the crash. Farmers working nearby claimed to see "dancing lights" around the object before it went completely dark.\n\n“What we’re seeing could be consistent with ionizing radiation or magnetic field anomalies,” said Dr. Malik Oberoi, a physicist from the University of Cambridge who was flown in to consult. “However, without proper analysis, it\'s too early to speculate.”\n\nNotably, preliminary scans conducted by ground-penetrating radar revealed that the object may extend several meters underground, suggesting that what is visible on the surface could be just a fraction of a much larger structure.\n\nGovernment Response\n\nThe Indian government has issued a temporary no-fly zone over the region and has dispatched the Indian Army to enforce a security perimeter around Sundarpur. In a brief statement, the Ministry of Home Affairs said, “We are treating this as an object of scientific interest and potential strategic significance. Citizens are advised not to approach the site.”\n\nDespite official reassurances, conspiracy theories and public concern are already spreading. Social media has been flooded with videos, some showing alleged aerial footage of the object glowing faintly in the dark. A few unverified clips suggest that small drones deployed near the object mysteriously malfunctioned and crashed.\n\nA Global Mystery\n\nWhat adds more intrigue to the incident is that similar reports—albeit less dramatic—have emerged from parts of Chile, Siberia, and rural Australia in recent months. In each case, locals reported unusual sky phenomena followed by the discovery of unknown metallic fragments.\n\nThe United Nations Office for Outer Space Affairs (UNOOSA) has expressed concern over the frequency of such events and is calling for international cooperation to investigate what may be a global phenomenon.\n\n“If these events are connected, then we may be witnessing something unprecedented in our understanding of extraterrestrial materials or technologies,” said Ana Gómez, a senior analyst at UNOOSA.\n\nLooking Ahead\n\nAs the world watches with anticipation and skepticism, the Sundarpur object has already become the subject of countless theories and debates across scientific communities. Some see it as the beginning of a new era of discovery, while others warn against jumping to conclusions.\n\nMeanwhile, life in Sundarpur has been turned upside down. Villagers who once worried about the monsoon season and crop yields now find their homes surrounded by scientists, soldiers, and journalists from around the world.\n\n“We’ve never seen anything like this,” said 72-year-old Ram Pratap, a farmer who claims to have seen the object descend. “Maybe the gods are visiting. Or maybe it’s something else entirely.”\n\nOne thing is certain: whatever lies beneath the soil of Sundarpur, it has already changed the world above it.', 'model': 'tfidf'}
+2025-05-04 14:27:52,092 - __main__ - INFO - Prediction request: model=tfidf, text_length=4401
+2025-05-04 14:27:52,147 - __main__ - INFO - Original text: Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition
+
+Byline: By Liana Foster | Global Times Daily | May 4, 2025
+
+Sundarpur, India — In a surprising event that ...
+2025-05-04 14:27:52,158 - __main__ - INFO - Processed text: title : mysterious object lands remote village , scientists baffled material composition byline : liana foster | global times daily | may 4 , 2025 sundarpur , india — surprising event captured interna...
+2025-05-04 14:27:52,178 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\abc135f9-4c54-478a-81c7-94b0b672d527.json
+2025-05-04 14:27:52,179 - __main__ - INFO - Prediction result: REAL with confidence 0.56
+2025-05-04 14:27:52,180 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:27:52] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:30:03,837 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:30:03] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:30:07,576 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:30:07] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:30:09,634 - __main__ - INFO - Received prediction request: {'text': 'Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition\n\nByline: By Liana Foster | Global Times Daily | May 4, 2025\n\nSundarpur, India — In a surprising event that has captured international attention, a strange metallic object crash-landed in a remote village in northern India late Monday night. Villagers in Sundarpur, a quiet agricultural settlement nestled at the base of the Sivalik Hills, reported hearing a loud whirring noise followed by a blinding flash of blue light before the object hit the ground in a dry riverbed just outside the village boundary.\n\nThe object, roughly the size of a small car, is made of an unidentified alloy that scientists say doesn\'t match any known material on Earth. “The surface is incredibly smooth, almost frictionless, and appears to be absorbing radiation in ways we’ve never seen,” said Dr. Kavita Rao, a materials scientist from the Indian Institute of Science, who is leading a research team on-site.\n\nLocal authorities quickly cordoned off the area, and within hours, teams from the Indian Space Research Organisation (ISRO), the Defence Research and Development Organisation (DRDO), and even a joint observer team from the United Nations arrived to secure the location. Speculation about the object\'s origin has varied wildly—from an experimental space probe to alien technology.\n\nUnexplained Anomalies\n\nAccording to multiple eyewitnesses, the air temperature dropped significantly in the vicinity of the object, and several mobile phones in the area stopped functioning moments after the crash. Farmers working nearby claimed to see "dancing lights" around the object before it went completely dark.\n\n“What we’re seeing could be consistent with ionizing radiation or magnetic field anomalies,” said Dr. Malik Oberoi, a physicist from the University of Cambridge who was flown in to consult. “However, without proper analysis, it\'s too early to speculate.”\n\nNotably, preliminary scans conducted by ground-penetrating radar revealed that the object may extend several meters underground, suggesting that what is visible on the surface could be just a fraction of a much larger structure.\n\nGovernment Response\n\nThe Indian government has issued a temporary no-fly zone over the region and has dispatched the Indian Army to enforce a security perimeter around Sundarpur. In a brief statement, the Ministry of Home Affairs said, “We are treating this as an object of scientific interest and potential strategic significance. Citizens are advised not to approach the site.”\n\nDespite official reassurances, conspiracy theories and public concern are already spreading. Social media has been flooded with videos, some showing alleged aerial footage of the object glowing faintly in the dark. A few unverified clips suggest that small drones deployed near the object mysteriously malfunctioned and crashed.\n\nA Global Mystery\n\nWhat adds more intrigue to the incident is that similar reports—albeit less dramatic—have emerged from parts of Chile, Siberia, and rural Australia in recent months. In each case, locals reported unusual sky phenomena followed by the discovery of unknown metallic fragments.\n\nThe United Nations Office for Outer Space Affairs (UNOOSA) has expressed concern over the frequency of such events and is calling for international cooperation to investigate what may be a global phenomenon.\n\n“If these events are connected, then we may be witnessing something unprecedented in our understanding of extraterrestrial materials or technologies,” said Ana Gómez, a senior analyst at UNOOSA.\n\nLooking Ahead\n\nAs the world watches with anticipation and skepticism, the Sundarpur object has already become the subject of countless theories and debates across scientific communities. Some see it as the beginning of a new era of discovery, while others warn against jumping to conclusions.\n\nMeanwhile, life in Sundarpur has been turned upside down. Villagers who once worried about the monsoon season and crop yields now find their homes surrounded by scientists, soldiers, and journalists from around the world.\n\n“We’ve never seen anything like this,” said 72-year-old Ram Pratap, a farmer who claims to have seen the object descend. “Maybe the gods are visiting. Or maybe it’s something else entirely.”\n\nOne thing is certain: whatever lies beneath the soil of Sundarpur, it has already changed the world above it.', 'model': 'bert'}
+2025-05-04 14:30:09,636 - __main__ - INFO - Prediction request: model=bert, text_length=4401
+2025-05-04 14:30:09,640 - __main__ - INFO - Original text: Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition
+
+Byline: By Liana Foster | Global Times Daily | May 4, 2025
+
+Sundarpur, India — In a surprising event that ...
+2025-05-04 14:30:09,658 - __main__ - INFO - Processed text: title : mysterious object lands remote village , scientists baffled material composition byline : liana foster | global times daily | may 4 , 2025 sundarpur , india — surprising event captured interna...
+2025-05-04 14:30:10,062 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\e2087381-4242-43a8-8813-f9a69beceef8.json
+2025-05-04 14:30:10,062 - __main__ - INFO - Prediction result: FAKE with confidence 0.50
+2025-05-04 14:30:10,064 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:30:10] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:31:05,295 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\utils\\text_processor.py', reloading
+2025-05-04 14:31:05,295 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\utils\\text_processor.py', reloading
+2025-05-04 14:31:05,295 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\utils\\text_processor.py', reloading
+2025-05-04 14:31:07,313 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:31:14,582 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:31:23,380 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:31:28,050 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:31:28,072 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:31:28,525 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:31:28] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:31:39,969 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:31:39] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:31:40,204 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:31:40] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:31:43,745 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:31:43] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:31:45,822 - __main__ - INFO - Received prediction request: {'text': 'Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition\n\nByline: By Liana Foster | Global Times Daily | May 4, 2025\n\nSundarpur, India — In a surprising event that has captured international attention, a strange metallic object crash-landed in a remote village in northern India late Monday night. Villagers in Sundarpur, a quiet agricultural settlement nestled at the base of the Sivalik Hills, reported hearing a loud whirring noise followed by a blinding flash of blue light before the object hit the ground in a dry riverbed just outside the village boundary.\n\nThe object, roughly the size of a small car, is made of an unidentified alloy that scientists say doesn\'t match any known material on Earth. “The surface is incredibly smooth, almost frictionless, and appears to be absorbing radiation in ways we’ve never seen,” said Dr. Kavita Rao, a materials scientist from the Indian Institute of Science, who is leading a research team on-site.\n\nLocal authorities quickly cordoned off the area, and within hours, teams from the Indian Space Research Organisation (ISRO), the Defence Research and Development Organisation (DRDO), and even a joint observer team from the United Nations arrived to secure the location. Speculation about the object\'s origin has varied wildly—from an experimental space probe to alien technology.\n\nUnexplained Anomalies\n\nAccording to multiple eyewitnesses, the air temperature dropped significantly in the vicinity of the object, and several mobile phones in the area stopped functioning moments after the crash. Farmers working nearby claimed to see "dancing lights" around the object before it went completely dark.\n\n“What we’re seeing could be consistent with ionizing radiation or magnetic field anomalies,” said Dr. Malik Oberoi, a physicist from the University of Cambridge who was flown in to consult. “However, without proper analysis, it\'s too early to speculate.”\n\nNotably, preliminary scans conducted by ground-penetrating radar revealed that the object may extend several meters underground, suggesting that what is visible on the surface could be just a fraction of a much larger structure.\n\nGovernment Response\n\nThe Indian government has issued a temporary no-fly zone over the region and has dispatched the Indian Army to enforce a security perimeter around Sundarpur. In a brief statement, the Ministry of Home Affairs said, “We are treating this as an object of scientific interest and potential strategic significance. Citizens are advised not to approach the site.”\n\nDespite official reassurances, conspiracy theories and public concern are already spreading. Social media has been flooded with videos, some showing alleged aerial footage of the object glowing faintly in the dark. A few unverified clips suggest that small drones deployed near the object mysteriously malfunctioned and crashed.\n\nA Global Mystery\n\nWhat adds more intrigue to the incident is that similar reports—albeit less dramatic—have emerged from parts of Chile, Siberia, and rural Australia in recent months. In each case, locals reported unusual sky phenomena followed by the discovery of unknown metallic fragments.\n\nThe United Nations Office for Outer Space Affairs (UNOOSA) has expressed concern over the frequency of such events and is calling for international cooperation to investigate what may be a global phenomenon.\n\n“If these events are connected, then we may be witnessing something unprecedented in our understanding of extraterrestrial materials or technologies,” said Ana Gómez, a senior analyst at UNOOSA.\n\nLooking Ahead\n\nAs the world watches with anticipation and skepticism, the Sundarpur object has already become the subject of countless theories and debates across scientific communities. Some see it as the beginning of a new era of discovery, while others warn against jumping to conclusions.\n\nMeanwhile, life in Sundarpur has been turned upside down. Villagers who once worried about the monsoon season and crop yields now find their homes surrounded by scientists, soldiers, and journalists from around the world.\n\n“We’ve never seen anything like this,” said 72-year-old Ram Pratap, a farmer who claims to have seen the object descend. “Maybe the gods are visiting. Or maybe it’s something else entirely.”\n\nOne thing is certain: whatever lies beneath the soil of Sundarpur, it has already changed the world above it.', 'model': 'tfidf'}
+2025-05-04 14:31:45,823 - __main__ - INFO - Prediction request: model=tfidf, text_length=4401
+2025-05-04 14:31:45,878 - __main__ - INFO - Original text: Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition
+
+Byline: By Liana Foster | Global Times Daily | May 4, 2025
+
+Sundarpur, India — In a surprising event that ...
+2025-05-04 14:31:45,888 - __main__ - INFO - Processed text: title : mysterious object lands remote village , scientists baffled material composition byline : liana foster | global times daily | may 4 , 2025 sundarpur , india — surprising event captured interna...
+2025-05-04 14:31:45,903 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\0f7a39c0-42b3-4327-8c3b-672e0430896e.json
+2025-05-04 14:31:45,903 - __main__ - INFO - Prediction result: REAL with confidence 0.56
+2025-05-04 14:31:45,906 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:31:45] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:32:04,642 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:32:04] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:32:08,658 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:32:08] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:32:10,726 - __main__ - INFO - Received prediction request: {'text': 'Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition\n\nByline: By Liana Foster | Global Times Daily | May 4, 2025\n\nSundarpur, India — In a surprising event that has captured international attention, a strange metallic object crash-landed in a remote village in northern India late Monday night. Villagers in Sundarpur, a quiet agricultural settlement nestled at the base of the Sivalik Hills, reported hearing a loud whirring noise followed by a blinding flash of blue light before the object hit the ground in a dry riverbed just outside the village boundary.\n\nThe object, roughly the size of a small car, is made of an unidentified alloy that scientists say doesn\'t match any known material on Earth. “The surface is incredibly smooth, almost frictionless, and appears to be absorbing radiation in ways we’ve never seen,” said Dr. Kavita Rao, a materials scientist from the Indian Institute of Science, who is leading a research team on-site.\n\nLocal authorities quickly cordoned off the area, and within hours, teams from the Indian Space Research Organisation (ISRO), the Defence Research and Development Organisation (DRDO), and even a joint observer team from the United Nations arrived to secure the location. Speculation about the object\'s origin has varied wildly—from an experimental space probe to alien technology.\n\nUnexplained Anomalies\n\nAccording to multiple eyewitnesses, the air temperature dropped significantly in the vicinity of the object, and several mobile phones in the area stopped functioning moments after the crash. Farmers working nearby claimed to see "dancing lights" around the object before it went completely dark.\n\n“What we’re seeing could be consistent with ionizing radiation or magnetic field anomalies,” said Dr. Malik Oberoi, a physicist from the University of Cambridge who was flown in to consult. “However, without proper analysis, it\'s too early to speculate.”\n\nNotably, preliminary scans conducted by ground-penetrating radar revealed that the object may extend several meters underground, suggesting that what is visible on the surface could be just a fraction of a much larger structure.\n\nGovernment Response\n\nThe Indian government has issued a temporary no-fly zone over the region and has dispatched the Indian Army to enforce a security perimeter around Sundarpur. In a brief statement, the Ministry of Home Affairs said, “We are treating this as an object of scientific interest and potential strategic significance. Citizens are advised not to approach the site.”\n\nDespite official reassurances, conspiracy theories and public concern are already spreading. Social media has been flooded with videos, some showing alleged aerial footage of the object glowing faintly in the dark. A few unverified clips suggest that small drones deployed near the object mysteriously malfunctioned and crashed.\n\nA Global Mystery\n\nWhat adds more intrigue to the incident is that similar reports—albeit less dramatic—have emerged from parts of Chile, Siberia, and rural Australia in recent months. In each case, locals reported unusual sky phenomena followed by the discovery of unknown metallic fragments.\n\nThe United Nations Office for Outer Space Affairs (UNOOSA) has expressed concern over the frequency of such events and is calling for international cooperation to investigate what may be a global phenomenon.\n\n“If these events are connected, then we may be witnessing something unprecedented in our understanding of extraterrestrial materials or technologies,” said Ana Gómez, a senior analyst at UNOOSA.\n\nLooking Ahead\n\nAs the world watches with anticipation and skepticism, the Sundarpur object has already become the subject of countless theories and debates across scientific communities. Some see it as the beginning of a new era of discovery, while others warn against jumping to conclusions.\n\nMeanwhile, life in Sundarpur has been turned upside down. Villagers who once worried about the monsoon season and crop yields now find their homes surrounded by scientists, soldiers, and journalists from around the world.\n\n“We’ve never seen anything like this,” said 72-year-old Ram Pratap, a farmer who claims to have seen the object descend. “Maybe the gods are visiting. Or maybe it’s something else entirely.”\n\nOne thing is certain: whatever lies beneath the soil of Sundarpur, it has already changed the world above it.', 'model': 'bert'}
+2025-05-04 14:32:10,729 - __main__ - INFO - Prediction request: model=bert, text_length=4401
+2025-05-04 14:32:10,732 - __main__ - INFO - Original text: Title: Mysterious Object Lands in Remote Village, Scientists Baffled by Material Composition
+
+Byline: By Liana Foster | Global Times Daily | May 4, 2025
+
+Sundarpur, India — In a surprising event that ...
+2025-05-04 14:32:10,739 - __main__ - INFO - Processed text: title : mysterious object lands remote village , scientists baffled material composition byline : liana foster | global times daily | may 4 , 2025 sundarpur , india — surprising event captured interna...
+2025-05-04 14:32:11,198 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\7acd2536-32cb-4655-99f0-a62bf8e4009b.json
+2025-05-04 14:32:11,199 - __main__ - INFO - Prediction result: FAKE with confidence 0.50
+2025-05-04 14:32:11,200 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:32:11] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:32:34,603 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:32:34] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:32:45,875 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:32:45] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:32:51,350 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:32:51] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:32:56,031 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:32:56] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:32:56,239 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:32:56] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:32:58,278 - __main__ - INFO - Scrape request: url=https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-fair-and-remunerative-price-frp-msp-sugar-upsc-9979316/
+2025-05-04 14:32:59,182 - __main__ - INFO - Successfully extracted 1226 words from https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-fair-and-remunerative-price-frp-msp-sugar-upsc-9979316/
+2025-05-04 14:32:59,184 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:32:59] "POST /scrape HTTP/1.1" 200 -
+2025-05-04 14:33:01,232 - __main__ - INFO - Received prediction request: {'text': 'Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Heres your knowledge nugget for today on fair and remunerative price (FRP). Amid a drop in sugar production during the current season (October 2024 to September 2025), the Centre on Wednesday (April 30) increased the fair and remunerative price (FRP) of sugarcane by Rs 15 (or 4.41) to Rs 355 per quintal for the sugar season 2025-26. The FRP hike will encourage sugarcane farmers to plant more when sugar production is seeing a dip. The new FRP will come into effect October 1, 2025. 1. FRP is the minimum price mandated by the Government that sugar mills are obligated to pay farmers for their produce. 2. The FRP for sugarcane is decided every year by the Centres Cabinet Committee on Economic Affairs (CCEA) headed by the Prime Minister, on the recommendation of the Commission for Agricultural Costs and Prices (CACP), a body under the Ministry of Agriculture and Farmers Welfare. 3. The FRP for sugarcane is decided using the same mechanism as the one that is used to calculate the Minimum Support Price (MSP) of 23 other crops. 4. However, while the MSP is not legally guaranteed, sugar mills are legally obligated to pay the FRP. The payment of FRP across the country is governed by The Sugarcane Control order, 1966 which mandates payment within 14 days of the date of delivery of the cane, failing which the cane commissioner may act against the miller. Failure to clear farmers due can even lead to the attachment of mill properties. 5. The FRP is based on the recovery of sugar from the cane. Sugar recovery is the ratio between sugar produced versus cane crushed, expressed as a percentage. The higher the recovery, the higher is the FRP, and higher is the sugar produced. 1. Minimum support price (MSP) is the price at which the government is supposed to procurebuy that crop from farmers if the market price falls below it. MSPs provide a floor for market prices and ensure that farmers receive a certain minimum remuneration so that their costs of cultivation (and some profit) can be recovered. 2. MSP was introduced in the mid-sixties when India was in food deficit. The government was keen to boost domestic production through green revolution technologies but realised farmers wouldnt plant input-intensive high yielding wheat or paddy varieties unless guaranteed a minimum price. MSP was first fixed for wheat in 1966-67 at Rs. 54 per quintal. 3. The MSPs are announced by the Union government on the recommendations of the Commission for Agricultural Costs and Prices. 4. The Commission for Agricultural Costs  Prices recommends MSPs for 22 mandated crops and fair and remunerative price (FRP) for sugarcane. The Cabinet Committee on Economic Affairs (CCEA) of the Union government takes a final decision on the level of MSPs. 5. While recommending MSPs, the CACP looks at the following factors:  the demand and supply of a commodity;  its cost of production;  the market price trends (both domestic and international);  inter-crop price parity;  the terms of trade between agriculture and non-agriculture (that is, the ratio of prices of farm inputs and farm outputs);  a minimum of 50 per cent as the margin over the cost of production; and  the likely implications of an MSP on consumers of that product. A2: Covers all paid-out costs directly incurred by the farmer in cash and kind on seeds, fertilisers, pesticides, hired labour, leased-in land, fuel, irrigation, etc. A2FL: Includes A2 plus an imputed value of unpaid family labour. C2: Includes A2FL along with revenues forgone on owned land (rent) and fixed capital assets (interest). 6. Crops covered under MSP  7 types of cereals (paddy, wheat, maize, bajra, jowar, ragi and barley),  5 types of pulses (chana, arhartur, urad, moong and masur),  7 oilseeds (rapeseed-mustard, groundnut, soyabean, sunflower, sesamum, safflower, nigerseed),  4 commercial crops (cotton, sugarcane, copra, raw jute) (After knowing about the FRP and MSP, it becomes important to learn about the PMFBY, as government schemes, especially those for farmers, remain relevant for both Prelims and Mains. Additionally, in 2016, a direct question was asked on the PMFBY.) 1. The Union Cabinet on January 1, 2025, approved the continuation of the Pradhan Mantri Fasal Bima Yojana until 2025-26. 2. PMFBY was launched in 2016 to replace the existing National Agricultural Insurance Scheme (NAIS) and the Modified National Agricultural Insurance Scheme (MNAIS). It works on the One Nation, One Crop, One Premium. 3. Under the scheme, all farmers including sharecroppers and tenant farmers growing notified crops in the notified areas are eligible for coverage. 4. Initially, the scheme was compulsory for loanee farmers; in February 2020, the Centre revised it to make it optional for all farmers. 5. The schemes objective is to stablise farmers income to ensure their continuation in farming, encourage them to adopt innovative agricultural practices, and ensure the flow of credit to the farmers. For this, the scheme provides insurance coverage to the farmers in the event of failure of any of the notified crops as a result of natural calamities, pests  diseases. 6. Under the PMFBY, a farmer is required to pay as a premium 2 of the sum insured or actuarial rate, whichever is less, for all kharif foodgrain and oilseed crops; 1.5 of sum insured or actuarial rate, whichever is less, for all rabi foodgrain and oilseed crops; and 5 for horticultural crops. With reference to the Fair and Remunerative Price (FRP), consider the following statements: 1. The payment of FRP across the country is governed by the Sugarcane Control order, 1966. 2. It mandates payment within 14 days. 3. If the sugar recovery is higher then the FRP will also be higher. 4. FRP is the price declared by the various state governments. How many of the statements given above are correct? (a) Only one (b) Only two (c) Only three (d) All four (Sources: Sugar production set to decline, Govt hikes fair price of sugarcane by 4.41, Explained: HC, govt orders on Maharashtra sugarcane payments, why they matter for the state, Simply Put  Fasal Bima: whos in, out and why, UPSC Essentials: One word a day  Minimum Support Price) Subscribe to our UPSC newsletter. Stay updated with the latest UPSC articles by joining our Telegram channel  Indian Express UPSC Hub, and follow us on Instagram and X.  Click Here to read the UPSC Essentials magazine for April 2025. Share your views and suggestions in the comment box or at Manas Srivastava  Roshni Yadav is a Deputy Copy Editor with The Indian Express. She is an alumna of the University of Delhi and Jawaharlal Nehru University, where she pursued her graduation and post-graduation in Political Science. She has over five years of work experience in ed-tech and media. At The Indian Express, she writes for the UPSC section. Her interests lie in national and international affairs, governance, economy, and social issues. You can contact her via email: roshni.yadavindianexpress.com ... Read More Kim Soo Hyuns upcoming K-drama Knock Off, alongside actor Jo Bo Ah, the production of which was earlier paused according to a representative of Disney, stirred debate suddenly this week after a promotional picture of the actor was released online. The poster swept all top trends in no time, with the internet divided over their views. Read UPSC Magazine', 'model': 'tfidf'}
+2025-05-04 14:33:01,232 - __main__ - INFO - Prediction request: model=tfidf, text_length=7442
+2025-05-04 14:33:01,241 - __main__ - INFO - Original text: Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Heres your knowledge nugget for today on fair and remunerative price (FRP). Amid a dro...
+2025-05-04 14:33:01,265 - __main__ - INFO - Processed text: take look essential events , concepts , terms , quotes , phenomena every day brush knowledge . heres knowledge nugget today fair remunerative price ( frp ) . amid drop sugar production current season ...
+2025-05-04 14:33:01,296 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\b2e49d26-eceb-48a4-b12a-caed57918820.json
+2025-05-04 14:33:01,298 - __main__ - INFO - Prediction result: REAL with confidence 0.50
+2025-05-04 14:33:01,299 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:33:01] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:33:40,952 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:33:40,982 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:33:40,984 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:33:43,534 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:33:50,552 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:33:58,832 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:34:04,239 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:34:04,261 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:34:04,901 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:34:04] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:34:04,906 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:34:04] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:34:04,908 - __main__ - INFO - Scrape request: url=https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-fair-and-remunerative-price-frp-msp-sugar-upsc-9979316/
+2025-05-04 14:34:05,928 - __main__ - INFO - Successfully extracted 1226 words from https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-fair-and-remunerative-price-frp-msp-sugar-upsc-9979316/
+2025-05-04 14:34:05,930 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:34:05] "POST /scrape HTTP/1.1" 200 -
+2025-05-04 14:34:07,985 - __main__ - INFO - Received prediction request: {'text': 'Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Heres your knowledge nugget for today on fair and remunerative price (FRP). Amid a drop in sugar production during the current season (October 2024 to September 2025), the Centre on Wednesday (April 30) increased the fair and remunerative price (FRP) of sugarcane by Rs 15 (or 4.41) to Rs 355 per quintal for the sugar season 2025-26. The FRP hike will encourage sugarcane farmers to plant more when sugar production is seeing a dip. The new FRP will come into effect October 1, 2025. 1. FRP is the minimum price mandated by the Government that sugar mills are obligated to pay farmers for their produce. 2. The FRP for sugarcane is decided every year by the Centres Cabinet Committee on Economic Affairs (CCEA) headed by the Prime Minister, on the recommendation of the Commission for Agricultural Costs and Prices (CACP), a body under the Ministry of Agriculture and Farmers Welfare. 3. The FRP for sugarcane is decided using the same mechanism as the one that is used to calculate the Minimum Support Price (MSP) of 23 other crops. 4. However, while the MSP is not legally guaranteed, sugar mills are legally obligated to pay the FRP. The payment of FRP across the country is governed by The Sugarcane Control order, 1966 which mandates payment within 14 days of the date of delivery of the cane, failing which the cane commissioner may act against the miller. Failure to clear farmers due can even lead to the attachment of mill properties. 5. The FRP is based on the recovery of sugar from the cane. Sugar recovery is the ratio between sugar produced versus cane crushed, expressed as a percentage. The higher the recovery, the higher is the FRP, and higher is the sugar produced. 1. Minimum support price (MSP) is the price at which the government is supposed to procurebuy that crop from farmers if the market price falls below it. MSPs provide a floor for market prices and ensure that farmers receive a certain minimum remuneration so that their costs of cultivation (and some profit) can be recovered. 2. MSP was introduced in the mid-sixties when India was in food deficit. The government was keen to boost domestic production through green revolution technologies but realised farmers wouldnt plant input-intensive high yielding wheat or paddy varieties unless guaranteed a minimum price. MSP was first fixed for wheat in 1966-67 at Rs. 54 per quintal. 3. The MSPs are announced by the Union government on the recommendations of the Commission for Agricultural Costs and Prices. 4. The Commission for Agricultural Costs  Prices recommends MSPs for 22 mandated crops and fair and remunerative price (FRP) for sugarcane. The Cabinet Committee on Economic Affairs (CCEA) of the Union government takes a final decision on the level of MSPs. 5. While recommending MSPs, the CACP looks at the following factors:  the demand and supply of a commodity;  its cost of production;  the market price trends (both domestic and international);  inter-crop price parity;  the terms of trade between agriculture and non-agriculture (that is, the ratio of prices of farm inputs and farm outputs);  a minimum of 50 per cent as the margin over the cost of production; and  the likely implications of an MSP on consumers of that product. A2: Covers all paid-out costs directly incurred by the farmer in cash and kind on seeds, fertilisers, pesticides, hired labour, leased-in land, fuel, irrigation, etc. A2FL: Includes A2 plus an imputed value of unpaid family labour. C2: Includes A2FL along with revenues forgone on owned land (rent) and fixed capital assets (interest). 6. Crops covered under MSP  7 types of cereals (paddy, wheat, maize, bajra, jowar, ragi and barley),  5 types of pulses (chana, arhartur, urad, moong and masur),  7 oilseeds (rapeseed-mustard, groundnut, soyabean, sunflower, sesamum, safflower, nigerseed),  4 commercial crops (cotton, sugarcane, copra, raw jute) (After knowing about the FRP and MSP, it becomes important to learn about the PMFBY, as government schemes, especially those for farmers, remain relevant for both Prelims and Mains. Additionally, in 2016, a direct question was asked on the PMFBY.) 1. The Union Cabinet on January 1, 2025, approved the continuation of the Pradhan Mantri Fasal Bima Yojana until 2025-26. 2. PMFBY was launched in 2016 to replace the existing National Agricultural Insurance Scheme (NAIS) and the Modified National Agricultural Insurance Scheme (MNAIS). It works on the One Nation, One Crop, One Premium. 3. Under the scheme, all farmers including sharecroppers and tenant farmers growing notified crops in the notified areas are eligible for coverage. 4. Initially, the scheme was compulsory for loanee farmers; in February 2020, the Centre revised it to make it optional for all farmers. 5. The schemes objective is to stablise farmers income to ensure their continuation in farming, encourage them to adopt innovative agricultural practices, and ensure the flow of credit to the farmers. For this, the scheme provides insurance coverage to the farmers in the event of failure of any of the notified crops as a result of natural calamities, pests  diseases. 6. Under the PMFBY, a farmer is required to pay as a premium 2 of the sum insured or actuarial rate, whichever is less, for all kharif foodgrain and oilseed crops; 1.5 of sum insured or actuarial rate, whichever is less, for all rabi foodgrain and oilseed crops; and 5 for horticultural crops. With reference to the Fair and Remunerative Price (FRP), consider the following statements: 1. The payment of FRP across the country is governed by the Sugarcane Control order, 1966. 2. It mandates payment within 14 days. 3. If the sugar recovery is higher then the FRP will also be higher. 4. FRP is the price declared by the various state governments. How many of the statements given above are correct? (a) Only one (b) Only two (c) Only three (d) All four (Sources: Sugar production set to decline, Govt hikes fair price of sugarcane by 4.41, Explained: HC, govt orders on Maharashtra sugarcane payments, why they matter for the state, Simply Put  Fasal Bima: whos in, out and why, UPSC Essentials: One word a day  Minimum Support Price) Subscribe to our UPSC newsletter. Stay updated with the latest UPSC articles by joining our Telegram channel  Indian Express UPSC Hub, and follow us on Instagram and X.  Click Here to read the UPSC Essentials magazine for April 2025. Share your views and suggestions in the comment box or at Manas Srivastava  Roshni Yadav is a Deputy Copy Editor with The Indian Express. She is an alumna of the University of Delhi and Jawaharlal Nehru University, where she pursued her graduation and post-graduation in Political Science. She has over five years of work experience in ed-tech and media. At The Indian Express, she writes for the UPSC section. Her interests lie in national and international affairs, governance, economy, and social issues. You can contact her via email: roshni.yadavindianexpress.com ... Read More Kim Soo Hyuns upcoming K-drama Knock Off, alongside actor Jo Bo Ah, the production of which was earlier paused according to a representative of Disney, stirred debate suddenly this week after a promotional picture of the actor was released online. The poster swept all top trends in no time, with the internet divided over their views. Read UPSC Magazine', 'model': 'tfidf'}
+2025-05-04 14:34:07,986 - __main__ - INFO - Prediction request: model=tfidf, text_length=7442
+2025-05-04 14:34:08,033 - __main__ - INFO - Original text: Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Heres your knowledge nugget for today on fair and remunerative price (FRP). Amid a dro...
+2025-05-04 14:34:08,045 - __main__ - INFO - Processed text: take look essential events , concepts , terms , quotes , phenomena every day brush knowledge . heres knowledge nugget today fair remunerative price ( frp ) . amid drop sugar production current season ...
+2025-05-04 14:34:08,097 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\cb6afdb9-3120-4788-8988-4b301ff5a811.json
+2025-05-04 14:34:08,098 - __main__ - INFO - Prediction result: REAL with confidence 0.50
+2025-05-04 14:34:08,099 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:34:08] "POST /predict HTTP/1.1" 200 -
+2025-05-04 14:34:50,630 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:34:50,632 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:34:50,634 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:34:53,529 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:35:00,918 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:35:10,520 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:35:15,298 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:35:15,323 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:35:15,822 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:35:15] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:35:15,825 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:35:15] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:35:16,018 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:35:16] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:35:20,865 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:35:20] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:35:22,916 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:35:22] "[31m[1mPOST /batch-predict HTTP/1.1[0m" 400 -
+2025-05-04 14:35:28,091 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:35:28] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:35:31,703 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:35:31] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:35:33,778 - __main__ - INFO - Batch prediction request: model=bert, batch_size=10
+2025-05-04 14:35:33,826 - __main__ - INFO - Original text: Scientists Confirm That Eating Garlic Cures Coronavirus Instantly. A viral social media post claims that eating raw garlic can cure COVID-19 instantly. According to the article, garlic contains specia...
+2025-05-04 14:35:33,853 - __main__ - INFO - Processed text: scientists confirm eating garlic cures coronavirus instantly . viral social media post claims eating raw garlic cure covid-19 instantly . according article , garlic contains special compounds kill vir...
+2025-05-04 14:35:34,023 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\aa60e998-dd6e-4842-bde7-d9b73aaf6281.json
+2025-05-04 14:35:34,025 - __main__ - INFO - Original text: NASA Announces Discovery of Water on Mars. In a historic announcement, NASA scientists revealed the presence of liquid water on Mars, raising hopes for future manned missions and the possibility of li...
+2025-05-04 14:35:34,025 - __main__ - INFO - Processed text: nasa announces discovery water mars . historic announcement , nasa scientists revealed presence liquid water mars , raising hopes future manned missions possibility life beyond earth ....
+2025-05-04 14:35:34,125 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\8d10a866-5434-4f74-8b9d-a84d0517a475.json
+2025-05-04 14:35:34,125 - __main__ - INFO - Original text: Local Man Wins Lottery Twice in One Week. Against all odds, a local resident has reportedly won the state lottery two times in a single week, sparking investigations into the lottery system....
+2025-05-04 14:35:34,128 - __main__ - INFO - Processed text: local man wins lottery twice one week . odds , local resident reportedly state lottery two times single week , sparking investigations lottery system ....
+2025-05-04 14:35:34,194 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\7d5823f2-52dd-407b-8a93-a7c97f214353.json
+2025-05-04 14:35:34,196 - __main__ - INFO - Original text: Government Secretly Implanting Microchips in Vaccines. An anonymous whistleblower alleges that COVID-19 vaccines contain tracking devices that allow authorities to monitor citizens' movements....
+2025-05-04 14:35:34,196 - __main__ - INFO - Processed text: government secretly implanting microchips vaccines . anonymous whistleblower alleges covid-19 vaccines contain tracking devices allow authorities monitor citizens ' movements ....
+2025-05-04 14:35:34,266 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\46078cd6-abee-4a6d-8508-458023f81c2e.json
+2025-05-04 14:35:34,269 - __main__ - INFO - Original text: New Study Shows Chocolate Helps Weight Loss. Researchers at a fake university claim that eating chocolate three times daily accelerates metabolism by 300%, based on a 'study' funded by a candy manufac...
+2025-05-04 14:35:34,270 - __main__ - INFO - Processed text: new study shows chocolate helps weight loss . researchers fake university claim eating chocolate three times daily accelerates metabolism 300 % , based 'study ' funded candy manufacturer ....
+2025-05-04 14:35:34,333 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\a3ebc408-dfb0-47ec-b998-9dc64eeb528a.json
+2025-05-04 14:35:34,339 - __main__ - INFO - Original text: Breaking: Alien Signals Detected by SETI Institute. Scientists report receiving radio signals from a nearby star system that match patterns of intelligent origin, with official confirmation pending....
+2025-05-04 14:35:34,340 - __main__ - INFO - Processed text: breaking : alien signals detected seti institute . scientists report receiving radio signals nearby star system match patterns intelligent origin , official confirmation pending ....
+2025-05-04 14:35:34,422 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\156ea56c-d0a3-48d3-b72e-337b8f057cbc.json
+2025-05-04 14:35:34,422 - __main__ - INFO - Original text: Drinking Bleach Cures Cancer Says Fake Health Guru. A self-proclaimed wellness expert promotes chlorine dioxide solution as a miracle cure, despite FDA warnings about fatal poisoning risks....
+2025-05-04 14:35:34,425 - __main__ - INFO - Processed text: drinking bleach cures cancer says fake health guru . self-proclaimed wellness expert promotes chlorine dioxide solution miracle cure , despite fda warnings fatal poisoning risks ....
+2025-05-04 14:35:34,502 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\0b12e0cb-2551-4ed1-b8c2-7a708ccce4ad.json
+2025-05-04 14:35:34,502 - __main__ - INFO - Original text: Apple Announces iPhone That Charges in 30 Seconds. A counterfeit press release states Apple will launch a phone with graphene batteries that charge fully in half a minute....
+2025-05-04 14:35:34,503 - __main__ - INFO - Processed text: apple announces iphone charges 30 seconds . counterfeit press release states apple launch phone graphene batteries charge fully half minute ....
+2025-05-04 14:35:34,551 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\5b8b3d32-3395-4812-8928-0b9bdd3c299a.json
+2025-05-04 14:35:34,551 - __main__ - INFO - Original text: World's First Time Machine Successfully Tested. A dubious research paper claims physicists have sent a mouse 5 minutes into the future, violating known laws of physics....
+2025-05-04 14:35:34,554 - __main__ - INFO - Processed text: world 's first time machine successfully tested . dubious research paper claims physicists sent mouse 5 minutes future , violating known laws physics ....
+2025-05-04 14:35:34,603 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\eb783370-afa0-43cf-90f8-b694c66f047c.json
+2025-05-04 14:35:34,603 - __main__ - INFO - Original text: COVID-19 Vaccine Turns People Magnetic. Viral videos show coins sticking to vaccination sites, despite medical experts debunking this as impossible....
+2025-05-04 14:35:34,605 - __main__ - INFO - Processed text: covid-19 vaccine turns people magnetic . viral videos show coins sticking vaccination sites , despite medical experts debunking impossible ....
+2025-05-04 14:35:34,658 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\ea3f2c2b-6641-45c7-81c7-e5561cd6be83.json
+2025-05-04 14:35:34,658 - __main__ - INFO - Batch prediction completed: 10 items processed
+2025-05-04 14:35:34,661 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:35:34] "POST /batch-predict HTTP/1.1" 200 -
+2025-05-04 14:36:22,172 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:36:22] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:36:42,343 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:36:42] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:36:56,088 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:36:56] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:38:44,321 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\venv\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-05-04 14:38:46,936 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:38:54,577 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:39:02,915 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:39:07,925 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:39:07,950 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:39:08,513 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:39:08] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:39:08,516 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:39:08] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:39:43,861 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:39:43,891 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:39:43,892 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:39:46,331 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:39:53,878 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:40:02,767 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:40:07,658 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:40:07,680 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:40:08,182 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:40:08] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:40:08,185 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:40:08] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:40:21,259 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:40:21,288 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:40:21,290 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-04 14:40:23,923 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 14:40:30,457 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-04 14:40:38,697 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-04 14:40:43,441 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 14:40:43,463 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-04 14:40:44,040 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 14:40:44] "GET /health HTTP/1.1" 200 -
+2025-05-04 14:41:27,613 - __main__ - ERROR - Frontend server failed: Command '['streamlit', 'run', 'app/frontend.py']' returned non-zero exit status 3221225786.
+2025-05-05 20:10:51,067 - __main__ - INFO - Starting backend server...
+2025-05-05 20:10:51,068 - __main__ - INFO - Starting frontend server...
+2025-05-05 20:10:56,069 - __main__ - INFO - Opening browser at http://localhost:8501
+2025-05-05 20:11:15,982 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-05 20:11:57,239 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-05 20:12:04,572 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-05-05 20:12:04,573 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-05 20:12:04,598 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 20:12:13,494 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-05 20:12:21,541 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-05 20:12:27,107 - werkzeug - WARNING -  * Debugger is active!
+2025-05-05 20:12:27,128 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-05 20:12:27,762 - __main__ - INFO - Received prediction request: {'text': "Researchers at Stanford University have developed a new algorithm that improves early detection of Alzheimer's disease. The study, published in the Journal of Medical AI, shows a 40% improvement in early diagnosis compared to current methods. The team analyzed brain scans from over 5,000 patients using machine learning techniques.\n\n\n", 'model': 'bert'}
+2025-05-05 20:12:27,765 - __main__ - INFO - Prediction request: model=bert, text_length=332
+2025-05-05 20:12:27,899 - __main__ - INFO - Original text: Researchers at Stanford University have developed a new algorithm that improves early detection of Alzheimer's disease. The study, published in the Journal of Medical AI, shows a 40% improvement in ea...
+2025-05-05 20:12:27,901 - __main__ - INFO - Processed text: researchers stanford university developed new algorithm improves early detection alzheimer 's disease . study , published journal medical ai , shows 40 % improvement early diagnosis compared current m...
+2025-05-05 20:12:28,683 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\41c26c65-3bb7-47c1-80d2-dde8ddcc0d51.json
+2025-05-05 20:12:28,684 - __main__ - INFO - Prediction result: REAL with confidence 0.53
+2025-05-05 20:12:28,687 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 20:12:28] "POST /predict HTTP/1.1" 200 -
+2025-05-05 20:23:43,864 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Ghanshyamsinh Zala\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py', reloading
+2025-05-05 20:23:44,097 - __main__ - INFO - Prediction request: model=bert, text_length=1895
+2025-05-05 20:23:44,100 - __main__ - INFO - Original text: # SCIENTISTS SHOCKED: This SIMPLE TRICK Exposes "SUSPICIOUS NUMBERS" That Could Be Hiding In YOUR BANK ACCOUNT!
+
+**BREAKING NEWS!** Could **\$3,997.77** in your balance actually be a **RED FLAG**?
+
+A ...
+2025-05-05 20:23:44,113 - __main__ - INFO - Processed text: # scientists shocked : simple trick exposes `` suspicious numbers '' could hiding bank account ! * * breaking news ! * * could * * \ $ 3,997.77 * * balance actually * * red flag * * ? recent investiga...
+2025-05-05 20:23:45,921 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 20:23:53,506 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-05 20:24:01,346 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-05 20:24:05,662 - werkzeug - WARNING -  * Debugger is active!
+2025-05-05 20:24:05,692 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-05 20:24:16,370 - __main__ - INFO - Prediction request: model=bert, text_length=1895
+2025-05-05 20:24:16,422 - __main__ - INFO - Original text: # SCIENTISTS SHOCKED: This SIMPLE TRICK Exposes "SUSPICIOUS NUMBERS" That Could Be Hiding In YOUR BANK ACCOUNT!
+
+**BREAKING NEWS!** Could **\$3,997.77** in your balance actually be a **RED FLAG**?
+
+A ...
+2025-05-05 20:24:16,432 - __main__ - INFO - Processed text: # scientists shocked : simple trick exposes `` suspicious numbers '' could hiding bank account ! * * breaking news ! * * could * * \ $ 3,997.77 * * balance actually * * red flag * * ? recent investiga...
+2025-05-05 20:24:16,865 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\e2e7b7d3-a439-4e81-b086-851c2f97fadc.json
+2025-05-05 20:24:16,865 - __main__ - INFO - Prediction result: FAKE with confidence 0.52
+2025-05-05 20:24:16,868 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 20:24:16] "POST /predict HTTP/1.1" 200 -
+2025-05-05 20:41:25,643 - __main__ - INFO - Scrape request: url=https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-fair-and-remunerative-price-frp-msp-sugar-upsc-9979316/
+2025-05-05 20:41:27,263 - __main__ - INFO - Successfully extracted 1223 words from https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-fair-and-remunerative-price-frp-msp-sugar-upsc-9979316/
+2025-05-05 20:41:27,263 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 20:41:27] "POST /scrape HTTP/1.1" 200 -
+2025-05-05 20:41:29,337 - __main__ - INFO - Received prediction request: {'text': "Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Heres your knowledge nugget for today on fair and remunerative price (FRP). Amid a drop in sugar production during the current season (October 2024 to September 2025), the Centre on Wednesday (April 30) increased the fair and remunerative price (FRP) of sugarcane by Rs 15 (or 4.41) to Rs 355 per quintal for the sugar season 2025-26. The FRP hike will encourage sugarcane farmers to plant more when sugar production is seeing a dip. The new FRP will come into effect October 1, 2025. 1. FRP is the minimum price mandated by the Government that sugar mills are obligated to pay farmers for their produce. 2. The FRP for sugarcane is decided every year by the Centres Cabinet Committee on Economic Affairs (CCEA) headed by the Prime Minister, on the recommendation of the Commission for Agricultural Costs and Prices (CACP), a body under the Ministry of Agriculture and Farmers Welfare. 3. The FRP for sugarcane is decided using the same mechanism as the one that is used to calculate the Minimum Support Price (MSP) of 23 other crops. 4. However, while the MSP is not legally guaranteed, sugar mills are legally obligated to pay the FRP. The payment of FRP across the country is governed by The Sugarcane Control order, 1966 which mandates payment within 14 days of the date of delivery of the cane, failing which the cane commissioner may act against the miller. Failure to clear farmers due can even lead to the attachment of mill properties. 5. The FRP is based on the recovery of sugar from the cane. Sugar recovery is the ratio between sugar produced versus cane crushed, expressed as a percentage. The higher the recovery, the higher is the FRP, and higher is the sugar produced. 1. Minimum support price (MSP) is the price at which the government is supposed to procurebuy that crop from farmers if the market price falls below it. MSPs provide a floor for market prices and ensure that farmers receive a certain minimum remuneration so that their costs of cultivation (and some profit) can be recovered. 2. MSP was introduced in the mid-sixties when India was in food deficit. The government was keen to boost domestic production through green revolution technologies but realised farmers wouldnt plant input-intensive high yielding wheat or paddy varieties unless guaranteed a minimum price. MSP was first fixed for wheat in 1966-67 at Rs. 54 per quintal. 3. The MSPs are announced by the Union government on the recommendations of the Commission for Agricultural Costs and Prices. 4. The Commission for Agricultural Costs  Prices recommends MSPs for 22 mandated crops and fair and remunerative price (FRP) for sugarcane. The Cabinet Committee on Economic Affairs (CCEA) of the Union government takes a final decision on the level of MSPs. 5. While recommending MSPs, the CACP looks at the following factors:  the demand and supply of a commodity;  its cost of production;  the market price trends (both domestic and international);  inter-crop price parity;  the terms of trade between agriculture and non-agriculture (that is, the ratio of prices of farm inputs and farm outputs);  a minimum of 50 per cent as the margin over the cost of production; and  the likely implications of an MSP on consumers of that product. A2: Covers all paid-out costs directly incurred by the farmer in cash and kind on seeds, fertilisers, pesticides, hired labour, leased-in land, fuel, irrigation, etc. A2FL: Includes A2 plus an imputed value of unpaid family labour. C2: Includes A2FL along with revenues forgone on owned land (rent) and fixed capital assets (interest). 6. Crops covered under MSP  7 types of cereals (paddy, wheat, maize, bajra, jowar, ragi and barley),  5 types of pulses (chana, arhartur, urad, moong and masur),  7 oilseeds (rapeseed-mustard, groundnut, soyabean, sunflower, sesamum, safflower, nigerseed),  4 commercial crops (cotton, sugarcane, copra, raw jute) (After knowing about the FRP and MSP, it becomes important to learn about the PMFBY, as government schemes, especially those for farmers, remain relevant for both Prelims and Mains. Additionally, in 2016, a direct question was asked on the PMFBY.) 1. The Union Cabinet on January 1, 2025, approved the continuation of the Pradhan Mantri Fasal Bima Yojana until 2025-26. 2. PMFBY was launched in 2016 to replace the existing National Agricultural Insurance Scheme (NAIS) and the Modified National Agricultural Insurance Scheme (MNAIS). It works on the One Nation, One Crop, One Premium. 3. Under the scheme, all farmers including sharecroppers and tenant farmers growing notified crops in the notified areas are eligible for coverage. 4. Initially, the scheme was compulsory for loanee farmers; in February 2020, the Centre revised it to make it optional for all farmers. 5. The schemes objective is to stablise farmers income to ensure their continuation in farming, encourage them to adopt innovative agricultural practices, and ensure the flow of credit to the farmers. For this, the scheme provides insurance coverage to the farmers in the event of failure of any of the notified crops as a result of natural calamities, pests  diseases. 6. Under the PMFBY, a farmer is required to pay as a premium 2 of the sum insured or actuarial rate, whichever is less, for all kharif foodgrain and oilseed crops; 1.5 of sum insured or actuarial rate, whichever is less, for all rabi foodgrain and oilseed crops; and 5 for horticultural crops. With reference to the Fair and Remunerative Price (FRP), consider the following statements: 1. The payment of FRP across the country is governed by the Sugarcane Control order, 1966. 2. It mandates payment within 14 days. 3. If the sugar recovery is higher then the FRP will also be higher. 4. FRP is the price declared by the various state governments. How many of the statements given above are correct? (a) Only one (b) Only two (c) Only three (d) All four (Sources: Sugar production set to decline, Govt hikes fair price of sugarcane by 4.41, Explained: HC, govt orders on Maharashtra sugarcane payments, why they matter for the state, Simply Put  Fasal Bima: whos in, out and why, UPSC Essentials: One word a day  Minimum Support Price) Subscribe to our UPSC newsletter. Stay updated with the latest UPSC articles by joining our Telegram channel  Indian Express UPSC Hub, and follow us on Instagram and X.  Click Here to read the UPSC Essentials magazine for April 2025. Share your views and suggestions in the comment box or at Manas Srivastava  Roshni Yadav is a Deputy Copy Editor with The Indian Express. She is an alumna of the University of Delhi and Jawaharlal Nehru University, where she pursued her graduation and post-graduation in Political Science. She has over five years of work experience in ed-tech and media. At The Indian Express, she writes for the UPSC section. Her interests lie in national and international affairs, governance, economy, and social issues. You can contact her via email: roshni.yadavindianexpress.com ... Read More Rahul Gandhi, Leader of Opposition in Lok Sabha, addressed various topics at Brown University, including taking responsibility for anti-Sikh riots, India's response to Trump's tariffs, and the threat from China and Pakistan. He also discussed Congress's relationship with the Sikh community and their stance on issues like caste census and Ram Temple construction. Read UPSC Magazine", 'model': 'bert'}
+2025-05-05 20:41:29,338 - __main__ - INFO - Prediction request: model=bert, text_length=7471
+2025-05-05 20:41:29,346 - __main__ - INFO - Original text: Take a look at the essential events, concepts, terms, quotes, or phenomena every day and brush up your knowledge. Heres your knowledge nugget for today on fair and remunerative price (FRP). Amid a dro...
+2025-05-05 20:41:29,364 - __main__ - INFO - Processed text: take look essential events , concepts , terms , quotes , phenomena every day brush knowledge . heres knowledge nugget today fair remunerative price ( frp ) . amid drop sugar production current season ...
+2025-05-05 20:41:29,739 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\c14cd2f2-ae4a-40ba-bc60-5259b170ef6a.json
+2025-05-05 20:41:29,739 - __main__ - INFO - Prediction result: REAL with confidence 0.53
+2025-05-05 20:41:29,741 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 20:41:29] "POST /predict HTTP/1.1" 200 -
+2025-05-05 20:42:31,622 - __main__ - INFO - Batch prediction request: model=bert, batch_size=10
+2025-05-05 20:42:31,623 - __main__ - INFO - Original text: Scientists Confirm That Eating Garlic Cures Coronavirus Instantly. A viral social media post claims that eating raw garlic can cure COVID-19 instantly. According to the article, garlic contains specia...
+2025-05-05 20:42:31,624 - __main__ - INFO - Processed text: scientists confirm eating garlic cures coronavirus instantly . viral social media post claims eating raw garlic cure covid-19 instantly . according article , garlic contains special compounds kill vir...
+2025-05-05 20:42:31,764 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\0e77019d-1651-432d-9780-72068e8731ed.json
+2025-05-05 20:42:31,766 - __main__ - INFO - Original text: NASA Announces Discovery of Water on Mars. In a historic announcement, NASA scientists revealed the presence of liquid water on Mars, raising hopes for future manned missions and the possibility of li...
+2025-05-05 20:42:31,767 - __main__ - INFO - Processed text: nasa announces discovery water mars . historic announcement , nasa scientists revealed presence liquid water mars , raising hopes future manned missions possibility life beyond earth ....
+2025-05-05 20:42:31,846 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\a4b4fee0-7477-41c7-8902-17a19a8cad6c.json
+2025-05-05 20:42:31,848 - __main__ - INFO - Original text: Local Man Wins Lottery Twice in One Week. Against all odds, a local resident has reportedly won the state lottery two times in a single week, sparking investigations into the lottery system....
+2025-05-05 20:42:31,849 - __main__ - INFO - Processed text: local man wins lottery twice one week . odds , local resident reportedly state lottery two times single week , sparking investigations lottery system ....
+2025-05-05 20:42:31,911 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\af74894e-8715-473c-9a3a-52a329d067f9.json
+2025-05-05 20:42:31,914 - __main__ - INFO - Original text: Government Secretly Implanting Microchips in Vaccines. An anonymous whistleblower alleges that COVID-19 vaccines contain tracking devices that allow authorities to monitor citizens' movements....
+2025-05-05 20:42:31,914 - __main__ - INFO - Processed text: government secretly implanting microchips vaccines . anonymous whistleblower alleges covid-19 vaccines contain tracking devices allow authorities monitor citizens ' movements ....
+2025-05-05 20:42:31,981 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\e4576958-d8cc-4f46-9fa9-e5fd05bd93b8.json
+2025-05-05 20:42:31,981 - __main__ - INFO - Original text: New Study Shows Chocolate Helps Weight Loss. Researchers at a fake university claim that eating chocolate three times daily accelerates metabolism by 300%, based on a 'study' funded by a candy manufac...
+2025-05-05 20:42:31,981 - __main__ - INFO - Processed text: new study shows chocolate helps weight loss . researchers fake university claim eating chocolate three times daily accelerates metabolism 300 % , based 'study ' funded candy manufacturer ....
+2025-05-05 20:42:32,044 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\8d1e6fa3-56d7-432f-a163-0f705f95bfcd.json
+2025-05-05 20:42:32,044 - __main__ - INFO - Original text: Breaking: Alien Signals Detected by SETI Institute. Scientists report receiving radio signals from a nearby star system that match patterns of intelligent origin, with official confirmation pending....
+2025-05-05 20:42:32,047 - __main__ - INFO - Processed text: breaking : alien signals detected seti institute . scientists report receiving radio signals nearby star system match patterns intelligent origin , official confirmation pending ....
+2025-05-05 20:42:32,108 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\7a91fc05-15dc-474e-9b6f-fec30b2fb2f0.json
+2025-05-05 20:42:32,108 - __main__ - INFO - Original text: Drinking Bleach Cures Cancer Says Fake Health Guru. A self-proclaimed wellness expert promotes chlorine dioxide solution as a miracle cure, despite FDA warnings about fatal poisoning risks....
+2025-05-05 20:42:32,111 - __main__ - INFO - Processed text: drinking bleach cures cancer says fake health guru . self-proclaimed wellness expert promotes chlorine dioxide solution miracle cure , despite fda warnings fatal poisoning risks ....
+2025-05-05 20:42:32,177 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\3e2a82d1-194b-44ad-8a59-64c2bf4372d3.json
+2025-05-05 20:42:32,177 - __main__ - INFO - Original text: Apple Announces iPhone That Charges in 30 Seconds. A counterfeit press release states Apple will launch a phone with graphene batteries that charge fully in half a minute....
+2025-05-05 20:42:32,179 - __main__ - INFO - Processed text: apple announces iphone charges 30 seconds . counterfeit press release states apple launch phone graphene batteries charge fully half minute ....
+2025-05-05 20:42:32,239 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\17a08988-4d13-4cad-963e-43622d394ec2.json
+2025-05-05 20:42:32,239 - __main__ - INFO - Original text: World's First Time Machine Successfully Tested. A dubious research paper claims physicists have sent a mouse 5 minutes into the future, violating known laws of physics....
+2025-05-05 20:42:32,241 - __main__ - INFO - Processed text: world 's first time machine successfully tested . dubious research paper claims physicists sent mouse 5 minutes future , violating known laws physics ....
+2025-05-05 20:42:32,299 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\b8a17c9c-f698-4970-84a6-5b45461090c3.json
+2025-05-05 20:42:32,299 - __main__ - INFO - Original text: COVID-19 Vaccine Turns People Magnetic. Viral videos show coins sticking to vaccination sites, despite medical experts debunking this as impossible....
+2025-05-05 20:42:32,301 - __main__ - INFO - Processed text: covid-19 vaccine turns people magnetic . viral videos show coins sticking vaccination sites , despite medical experts debunking impossible ....
+2025-05-05 20:42:32,363 - __main__ - INFO - Saved analysis result to E:\Project\Fake news detection\fake-news-detector\analysis_history\941c0519-3a95-457b-a878-4d3ab703a649.json
+2025-05-05 20:42:32,377 - __main__ - INFO - Batch prediction completed: 10 items processed
+2025-05-05 20:42:32,378 - werkzeug - INFO - 127.0.0.1 - - [05/May/2025 20:42:32] "POST /batch-predict HTTP/1.1" 200 -
+2025-05-05 21:18:00,002 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-05 21:18:03,692 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 21:18:16,316 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-05 21:18:28,045 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-05 21:18:34,248 - werkzeug - WARNING -  * Debugger is active!
+2025-05-05 21:18:34,273 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-05 23:15:03,579 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-05 23:19:14,507 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 23:19:24,137 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-05 23:19:35,311 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-05 23:19:40,615 - werkzeug - WARNING -  * Debugger is active!
+2025-05-05 23:19:40,631 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-05 23:50:40,116 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\run.py', reloading
+2025-05-05 23:50:41,990 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-05 23:50:50,588 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-05 23:51:00,329 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-05 23:51:05,672 - werkzeug - WARNING -  * Debugger is active!
+2025-05-05 23:51:05,694 - werkzeug - INFO -  * Debugger PIN: 485-022-531
+2025-05-06 01:47:10,090 - werkzeug - INFO -  * Detected change in 'E:\\Project\\Fake news detection\\fake-news-detector\\app\\frontend.py', reloading
+2025-05-06 02:03:47,089 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-06 02:04:01,102 - __main__ - INFO - Loading TF-IDF model from E:\Project\Fake news detection\fake-news-detector\models\tfidf_logreg.pkl
+2025-05-06 02:04:12,929 - __main__ - INFO - Loading BERT model from E:\Project\Fake news detection\fake-news-detector\models\bert
+2025-05-06 02:04:20,003 - werkzeug - WARNING -  * Debugger is active!
+2025-05-06 02:04:20,038 - werkzeug - INFO -  * Debugger PIN: 485-022-531

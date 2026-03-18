@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  newsguard-app:
+    build: .
+    ports:
+      - "5000:5000"
+      - "8501:8501"
+    volumes:
+      - ./models:/app/models
+      - ./analysis_history:/app/analysis_history
+      - ./data:/app/data
+    environment:
+      - DEBUG=False
+      - API_PORT=5000
+      - STREAMLIT_PORT=8501
+    restart: unless-stopped

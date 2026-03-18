@@ -1,0 +1,30 @@
+# Web frameworks
+streamlit==1.30.0
+flask==3.0.0
+flask-cors==4.0.0
+flask-limiter==3.5.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv==1.0.0
+
+# Machine learning
+scikit-learn>=1.2.0
+transformers>=4.30.0
+torch>=2.0.0
+nltk>=3.8.0
+
+# Web scraping
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+wordcloud>=1.9.0
+
+# Utilities
+joblib>=1.3.0
+tqdm>=4.65.0
+pydantic>=2.0.0

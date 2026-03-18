@@ -1,0 +1,84 @@
+{
+    "prediction": "UNCERTAIN",
+    "confidence": 0.9474741331898415,
+    "fake_probability": 0.5262629334050792,
+    "important_words": [
+        {
+            "word": "march",
+            "importance": 0.125
+        },
+        {
+            "word": "members",
+            "importance": 0.125
+        },
+        {
+            "word": "lok",
+            "importance": 0.10416666666666667
+        },
+        {
+            "word": "sabha",
+            "importance": 0.10416666666666667
+        },
+        {
+            "word": "house",
+            "importance": 0.10416666666666667
+        },
+        {
+            "word": "congress",
+            "importance": 0.10416666666666667
+        },
+        {
+            "word": "parties",
+            "importance": 0.08333333333333333
+        },
+        {
+            "word": "leaders",
+            "importance": 0.08333333333333333
+        },
+        {
+            "word": "speaker",
+            "importance": 0.08333333333333333
+        },
+        {
+            "word": "birla",
+            "importance": 0.08333333333333333
+        }
+    ],
+    "features": {
+        "sensational_count": 1,
+        "credible_count": 1,
+        "clickbait_count": 0,
+        "exclamation_count": 0,
+        "all_caps_count": 7,
+        "suspicious_numbers": 0,
+        "word_count": 491,
+        "sentence_count": 15,
+        "question_count": 0
+    },
+    "explanation": {
+        "summary": "This article has mixed signals, indicating uncertainty.",
+        "factors": [
+            {
+                "type": "negative",
+                "description": "Contains 1 sensational terms designed to trigger emotional responses."
+            },
+            {
+                "type": "positive",
+                "description": "Uses 1 terms associated with evidence-based reporting."
+            },
+            {
+                "type": "negative",
+                "description": "Uses ALL CAPS for 7 words, which is typical of sensationalist content."
+            }
+        ],
+        "recommendations": [
+            "Verify information from multiple credible sources.",
+            "Check for specific citations or expert references.",
+            "Be cautious of emotionally charged language."
+        ]
+    },
+    "text": "The suspension of eight Opposition MPs from the Lok Sabha is likely to be revoked on Tuesday (March 17, 2026), after the government and Opposition parties on Monday (March 16, 2026) reached a consensus on the issue at a meeting of floor leaders convened by Speaker Om Birla. Sources said that parties agreed that members would not cross over into the Well of the House to oppose those on the other side, throw papers at the Speaker\u2019s podium or protest at the desk of the secretary general. Parliamentary Affairs Minister Kiren Rijiju, senior Congress leader K.C. Venugopal, Congress chief Whip K. Suresh, Samajwadi Party leader Dharmendra Yadav, Trinamool Congress\u2019 Satabdi Roy and Supriya Sule of the NCP were among those present at the meeting. Among NDA leaders, Union Minister and Janata Dal (United) leader Rajeev Ranjan Singh and Shrikant Shinde of the Shiva Sena were also present. On February 3, seven Congress MPs and one CPI(M) MP were suspended for unruly behaviour following a resolution passed by the Lok Sabha during the first part of the Budget session. The suspended members are Gurjeet Singh Aujla, Hibi Eden, C. Kiran Kumar Reddy, Amarinder Singh Raja Warring, Manickam Tagore, Prashant Padole and Dean Kuriakose (all Congress) and S. Ventakesan of the CPI(M). Issuing a bulletin, the Lok Sabha secretariat reminded members that Speaker Om Birla has barred placards, posters and banners from being brought into Parliament. \u201cIt has also come to light that AI-generated portraits, pictures and slogans of a derogatory nature are being displayed on several of these posters, placards and banners,\u201d the bulletin said, urging members to comply with the directions. On Monday (March 16, 2026) morning, soon after the Question Hour, Mr. Venugopal raised the issue of revoking the suspensions on the floor of the House when Mr. Birla was presiding over the proceedings. The Lok Sabha also took up the Question Hour earlier in the day for the first time since the second part of the Budget session. During the first week of the second leg of the Budget session, which began on March 9, the House has not been able to complete the Question Hour between 11 a.m. and 12 p.m. due to Opposition protests over the LPG issue. On Sunday (March 15, 2026), Mr. Birla expressed \u201cdeep concern\u201d over the display of banners, placards, posters and the use of certain language inside the House by some MPs, and urged leaders of all political parties to ensure discipline and high ethical conduct among their members. In a letter to leaders of all political parties, the Speaker said the House has always had a glorious tradition of dignified discussion and dialogue, but for some time now, the dignity and prestige of the country\u2019s parliamentary democracy has been undermined by some members both inside and outside the chamber and within the Parliament complex. Published - March 16, 2026 09:53 pm IST India / parliament / Parliament proceedings / Lok Sabha",
+    "model_used": "tfidf",
+    "id": "71800ccd-d43d-4eaa-b55b-4b99d88870b7",
+    "timestamp": "2026-03-17T04:34:46.878472"
+}
